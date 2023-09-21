@@ -18,6 +18,8 @@ classifiers = [
     "Typing :: Typed",
 ]
 dependencies = [
+    "beautifulsoup4",
+    "python-dateutil",
     "typer",
 ]
 
