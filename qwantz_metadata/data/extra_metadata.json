@@ -1,0 +1,106 @@
+{
+  "comic2-174.png": {
+    "comic_id": 162,
+    "copyright_text": "(C) 2003 Ryan North with thanks to Patrick Wisking"
+  },
+  "comic2-199.png": {
+    "comic_id": 179,
+    "footer_url": "www.qwantz.com/suzuki.html"
+  },
+  "comic2-331.png": {
+    "comic_id": 296,
+    "copyright_text": "(C) 2004 Ryan North with thanks to Rosemary Jones"
+  },
+  "comic2-350.png": {
+    "comic_id": 316,
+    "copyright_text": "Lyrics to \"Fresh Prince of Bel-Air\" (C) one Willard Smith and Jeffrey Townes"
+  },
+  "comic2-435.png": {
+    "comic_id": 399,
+    "footer_url": "www.qwantz.com/telefrancais.mp3"
+  },
+  "comic2-452.png": {
+    "comic_id": 411,
+    "copyright_text": "Lyrics to \"Shoop\" (C) Cheryl \"Salt\" James and Sandy \"Pepa\" Denton!"
+  },
+  "comic2-501.png": {
+    "comic_id": 456,
+    "copyright_text": "(C) 2004 Ryan North, with thanks to Katie, as in Tom's sister"
+  },
+  "comic2-514.png": {
+    "comic_id": 467,
+    "copyright_text": "(C) 2005 Ryan North with thanks to Allene!"
+  },
+  "comic2-556.png": {
+    "comic_id": 517,
+    "copyright_text": "(C) 2005 Ryan North  Thanks to Katie, as in Tom's sister"
+  },
+  "comic2-607.png": {
+    "comic_id": 568,
+    "copyright_text": "(C) 2005 Ryan North with thanks to Tim Maly"
+  },
+  "comic2-624.png": {
+    "comic_id": 585,
+    "copyright_text": "(C) 2005 Ryan North with thanks to Priya"
+  },
+  "comic2-637.png": {
+    "comic_id": 597,
+    "copyright_text": "(C) 2005 Ryan North with thanks to Dan"
+  },
+  "comic2-723.png": {
+    "comic_id": 692,
+    "copyright_text": "(C) 2006 Ryan North with thanks to Patros"
+  },
+  "comic2-899.png": {
+    "comic_id": 868,
+    "footer_url": "www.qwantz.com/pushit.mid"
+  },
+  "comic2-904.png": {
+    "comic_id": 873,
+    "copyright_text": "(C) 2006 Ryan North with thanks to John"
+  },
+  "comic2-915.png": {
+    "comic_id": 884,
+    "copyright_text": "(C) 2006 Ryan North with thanks to Kate"
+  },
+  "comic2-1050.jpg": {
+    "comic_id": 1023,
+    "description": "Unusually, the image is a JPEG rather than a PNG. It's because the image contains a steganographic message encoded with steghide (https://steghide.sourceforge.net; web UI at http://futureboy.us/stegano/decinput.html). The message is a green monochromatic photo of a T-Rex sculpture saying \"boooooooooooooners\"."
+  },
+  "comic2-1096.png": {
+    "comic_id": 1068,
+    "copyright_text": "(C) 2007 Ryan North with thanks to Handsome John Martz"
+  },
+  "comic2-1590.png": {
+    "comic_id": 1569,
+    "footer_url": "www.qwantz.com/dominoes.jpg"
+  },
+  "comic2-2087.png": {
+    "comic_id": 2076,
+    "description": "The transcript reads the panels normally, left-to-right, but this particular comic should be read right-to-left: panels 3, 2, 1, 6, 5, 4"
+  },
+  "comic2-2200.png": {
+    "comic_id": 2188,
+    "copyright_text": "(C) 2012 Ryboflavin North"
+  },
+  "comic2-2351.png": {
+    "comic_id": 2340,
+    "description": "The default version of a double-feature choose-your-own comic"
+  },
+  "comic2-2351-2.png": {
+    "comic_id": 2340,
+    "description": "The mouse-over version of a double-feature choose-your-own comic"
+  },
+  "comic2-THISWASVERYDIFFICULTTOACCOMPLISHPLEASEPAYATTENTION.png": {
+    "comic_id": 2969,
+    "description": "The initial \"one-time\" part of a double-feature comic"
+  },
+  "comic2-2976.png": {
+    "comic_id": 2969,
+    "description": "The final part of a double-feature comic"
+  },
+  "comic2-3523.gif": {
+    "comic_id": 3521,
+    "description": "The image is animated and some of God's lines change after some time; the transcript lists both versions"
+  }
+}
