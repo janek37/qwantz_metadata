@@ -1,8 +1,8 @@
 [project]
-name = "parse_qwantz"
+name = "qwantz_metadata"
 authors = [{name = "Jan Szejko", email = "jan.szejko@gmail.com"}]
-version = "2023.9.3"
-description = "Transcript generator for Dinosaur Comics"
+version = "2023.10.1"
+description = "Prepare metadata document for Dinosaur Comics"
 readme = "README.md"
 requires-python = ">=3.10"
 classifiers = [
@@ -28,6 +28,9 @@ dev = ["pytest"]
 
 [project.urls]
 homepage = "https://github.com/janek37/qwantz_metadata"
+
+[project.scripts]
+qwantz-metadata = "qwantz_metadata:app"
 
 [tool.setuptools]
 packages = ["qwantz_metadata"]

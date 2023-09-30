@@ -1,0 +1,1 @@
+from qwantz_metadata.combine_metadata import app
