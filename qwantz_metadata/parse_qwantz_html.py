@@ -4,6 +4,8 @@ from typing import NamedTuple
 from bs4 import BeautifulSoup, Comment, Tag
 from dateutil.parser import parse as parse_datetime
 
+from qwantz_metadata.encoding_utils import fix_encoding
+
 BASE_URL = "https://www.qwantz.com"
 
 EMPTY_HAPS_DATE_PREFIX = "This comic is from "
@@ -34,11 +36,11 @@ def parse_qwantz_html(html: str) -> MetadataFromHTML:
         comic_url=comic_url,
         date=get_date(soup),
         image_url=get_image_url(image),
-        title_text=image.attrs["title"],
-        contact_text=get_contact_text(soup),
-        archive_text=get_archive_text(soup),
-        haps=get_haps(soup),
-        header_text=get_header_text(soup),
+        title_text=fix_encoding(image.attrs["title"]),
+        contact_text=fix_encoding(get_contact_text(soup)),
+        archive_text=fix_encoding(get_archive_text(soup)),
+        haps=fix_encoding(get_haps(soup)),
+        header_text=fix_encoding(get_header_text(soup)),
         image_link_target=image.parent.attrs["href"] if image.parent.name == "a" else None,
     )
 
