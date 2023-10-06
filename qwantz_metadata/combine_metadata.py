@@ -28,8 +28,7 @@ class ExtraMetadata(NamedTuple):
     description: str | None = None
     guest_artist: str | None = None
     guest_artist_url: str | None = None
-    copyright_text: str | None = None
-    footer_url: str | None = None
+    footer: list[str] | None = None
 
 
 @dataclass
@@ -48,8 +47,7 @@ class CombinedMetadata:
     description: str | None = None
     guest_artist: str | None = None
     guest_artist_url: str | None = None
-    copyright_text: str | None = None
-    footer_url: str | None = None
+    footer: list[str] | None = None
 
     @classmethod
     def from_html_metadata(cls, html_metadata: MetadataFromHTML) -> "CombinedMetadata":
@@ -64,12 +62,13 @@ class CombinedMetadata:
 
 
 @app.command()
-def combine_metadata(transcripts_dir: Path, html_dir: Path, images_dir: Path) -> None:
+def combine_metadata(transcripts_dir: Path, footers_dir: Path, html_dir: Path) -> None:
     extra_metadata_by_url = {md.image_url: md for md in load_metadata(EXTRA_METADATA_PATH)}
     guest_comics_by_url = {md.image_url: md for md in load_metadata(GUEST_COMICS_PATH)}
     special_comics_by_url = {md.image_url: md for md in load_metadata(SPECIAL_COMICS_PATH)}
 
-    transcripts_by_url = {image_url: panels for image_url, panels in get_transcripts(transcripts_dir, images_dir)}
+    transcripts_by_url = {image_url: panels for image_url, panels in get_transcripts(transcripts_dir)}
+    footers_by_url = {image_url: footer for image_url, footer in get_footers(footers_dir)}
 
     result = []
     for html_metadata in get_metadata_from_html(html_dir):
@@ -77,6 +76,8 @@ def combine_metadata(transcripts_dir: Path, html_dir: Path, images_dir: Path) ->
         combined = CombinedMetadata.from_html_metadata(html_metadata)
         if image_url in transcripts_by_url:
             combined.panels = transcripts_by_url[image_url]
+        if image_url in footers_by_url:
+            combined.footer = footers_by_url[image_url]
         if image_url in extra_metadata_by_url:
             combined.apply_extra(extra_metadata_by_url[image_url])
         if image_url in special_comics_by_url:
@@ -89,19 +90,24 @@ def combine_metadata(transcripts_dir: Path, html_dir: Path, images_dir: Path) ->
     print(json.dumps(result, indent=2, ensure_ascii=False))
 
 
-def get_transcripts(transcripts_dir: Path, images_dir: Path) -> Iterator[tuple[str, list[list[str]]]]:
-    image_filenames_by_stem = {
-        image_path.stem.split(" - ")[1]: image_path.name.split(" - ")[1]
-        for image_path in images_dir.iterdir()
-        if image_path.is_file()
-    }
+def get_transcripts(transcripts_dir: Path) -> Iterator[tuple[str, list[list[str]]]]:
     for trancript_file_path in transcripts_dir.iterdir():
-        base_name = trancript_file_path.stem
-        _, image_file_stem = base_name.split(" - ")
-        image_filename = image_filenames_by_stem[image_file_stem]
-        image_url = IMAGE_URL_PREFIX + image_filename
-        panels = get_panels(trancript_file_path.open())
-        yield image_url, panels
+        if trancript_file_path.is_file() and trancript_file_path.suffix == ".txt":
+            base_name = trancript_file_path.stem
+            _, image_filename = base_name.split(" - ")
+            image_url = IMAGE_URL_PREFIX + image_filename
+            panels = get_panels(trancript_file_path.open())
+            yield image_url, panels
+
+
+def get_footers(footers_dir: Path) -> Iterator[tuple[str, list[str]]]:
+    for footer_file_path in footers_dir.iterdir():
+        if footer_file_path.is_file() and footer_file_path.suffix == ".txt":
+            base_name = footer_file_path.stem
+            _, image_filename = base_name.split(" - ")
+            image_url = IMAGE_URL_PREFIX + image_filename
+            footer = [line.rstrip() for line in footer_file_path.open()]
+            yield image_url, footer
 
 
 def get_metadata_from_html(html_dir: Path) -> Iterator[MetadataFromHTML]:
@@ -134,8 +140,7 @@ def load_metadata(json_path: Traversable) -> Iterator[ExtraMetadata]:
             description=metadata_dict.get("description"),
             guest_artist=metadata_dict.get("guest_artist"),
             guest_artist_url=metadata_dict.get("guest_artist_url"),
-            copyright_text=metadata_dict.get("copyright_text"),
-            footer_url=metadata_dict.get("footer_url"),
+            footer=metadata_dict.get("footer"),
         )
 
 

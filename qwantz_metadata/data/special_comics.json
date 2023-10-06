@@ -26,6 +26,11 @@
         "Utahraptor: I don't have a goatee! That Utahraptor has moved to - Good God! He's in my Universe!",
         "Evil T-Rex: Sweet!"
       ]
+    ],
+    "footer": [
+      "〚mirrored, like the rest of the template〛",
+      "(C) 2003 Ryan North",
+      "www.qwantz.com"
     ]
   },
   "comic2-48.png": {
@@ -57,6 +62,11 @@
         "Evil T-Rex: Cause here I go!",
         "Utahraptor: God damn you, Evil T-Rex!"
       ]
+    ],
+    "footer": [
+      "〚mirrored, like the rest of the template〛",
+      "(C) 2003 Ryan North",
+      "www.qwantz.com"
     ]
   },
   "comic2-49-3.png": {
@@ -93,11 +103,19 @@
         "Evil T-Rex: Huh! Well, tell you what. I'll stomp on her first, then you go, OK?",
         "Evil Utahraptor: It's good to be back!"
       ]
+    ],
+    "footer": [
+      "〚mirrored, like the rest of the template〛",
+      "(C) 2003 Ryan North",
+      "www.qwantz.com"
     ]
   },
   "comic2-194.png": {
     "comic_id": 176,
-    "copyright_text": "(C) 2003 the Usual Gang of Idiots",
+    "footer": [
+      "(C) 2003 the Usual Gang of Idiots",
+      "www.qwantz.com"
+    ],
     "description": "The comic is in greyscale, and characters have rectangular speech balloons",
     "panels": [
       [

@@ -4,6 +4,7 @@
     "description": "The images in panels 1-5 are replaced by rough pencil sketches",
     "guest_artist": "Patrick Wisking",
     "guest_artist_url": "http://www.insaneabode.com/pat80/80.html",
+    "footer": ["www.qwantz.com"],
     "panels": [
       [
         "Narrator: Today: Origin of the dinosaur comics, part I",
@@ -36,6 +37,7 @@
     "comic_id": 74,
     "guest_artist": "Patrick Wisking",
     "guest_artist_url": "http://www.insaneabode.com/pat80/80.html",
+    "footer": ["www.qwantz.com"],
     "panels": [
       [
         "Narrator: Today: Origin of the dinosaur comics, part ][",
@@ -69,6 +71,7 @@
     "description": "All images are replaced by rough pencil sketches",
     "guest_artist": "Patrick Wisking",
     "guest_artist_url": "http://www.insaneabode.com/pat80/80.html",
+    "footer": ["www.qwantz.com"],
     "panels": [
       [
         "Narrator: Today, origin of the Dinosaur Comics, part ]|[",
@@ -100,6 +103,7 @@
     "description": "All images are replaced by rough pencil sketches",
     "guest_artist": "Patrick Wisking",
     "guest_artist_url": "http://www.insaneabode.com/pat80/80.html",
+    "footer": ["www.qwantz.com"],
     "panels": [
       [
         "Narrator: Today: Origin of the dinosaur comics, part IV",
@@ -131,6 +135,7 @@
     "comic_id": 77,
     "guest_artist": "Patrick Wisking",
     "guest_artist_url": "http://www.insaneabode.com/pat80/80.html",
+    "footer": ["www.qwantz.com"],
     "panels": [
       [
         "Narrator: Today: Origin of the dinosaur comics, part V",
@@ -163,7 +168,10 @@
     "description": "Characters' speech is not connected with lines, and each character has their own font: T-Rex has bold serif, Dromiceiomimus has sans-serif, and Utahraptor has sans-serif monospace",
     "guest_artist": "Victor North",
     "guest_artist_url": "http://www.insaneabode.com/victor/",
-    "copyright_text": "(〚C crossed out with a backslash〛) 2003 ◖VICTOR◗North",
+    "footer": [
+      "(〚C crossed out with a backslash〛) 2003 ◖VICTOR◗North",
+      "www.qwantz.com"
+    ],
     "panels": [
       [
         "T-Rex: I HAVE BEEN THINKING LATELY"
@@ -194,7 +202,10 @@
     "description": "All images are in dithered grayscale, except Utahraptor who is just in grayscale. Other than that, characters' speech is not connected with lines, and each character has their own font: T-Rex has bold serif, Dromiceiomimus has sans-serif, and Utahraptor has sans-serif monospace",
     "guest_artist": "Victor North",
     "guest_artist_url": "http://www.insaneabode.com/victor/",
-    "copyright_text": "(C) 2003 ◖VICTOR◗North",
+    "footer": [
+      "(C) 2003 ◖VICTOR◗North",
+      "www.qwantz.com"
+    ],
     "panels": [
       [
         "T-Rex: SOMETHING IS AMISS!"
@@ -224,7 +235,10 @@
     "description": "Characters' speech is not connected with lines, and each character has their own font: T-Rex has bold serif, Dromiceiomimus has sans-serif, and Utahraptor has sans-serif monospace",
     "guest_artist": "Victor North",
     "guest_artist_url": "http://www.insaneabode.com/victor/",
-    "copyright_text": "(C) 2003 ◖VICTOR◗North",
+    "footer": [
+      "(C) 2003 ◖VICTOR◗North",
+      "www.qwantz.com"
+    ],
     "panels": [
       [
         "T-Rex: WHEN I'M DEAD I WANT TO BE REMBERED NOT FOR MY FOSSILED REMAINS BUT FOR MY...."
@@ -260,7 +274,10 @@
     "description": "Characters' speech is not connected with lines, and each character has their own font: T-Rex has bold serif, Dromiceiomimus has sans-serif, and Utahraptor has sans-serif monospace",
     "guest_artist": "Victor North",
     "guest_artist_url": "http://www.insaneabode.com/victor/",
-    "copyright_text": "(C) 2003 ◖VICTOR◗North",
+    "footer": [
+      "(C) 2003 ◖VICTOR◗North",
+      "www.qwantz.com"
+    ],
     "panels": [
       [
         "T-Rex: I, THE T-REX HAVE COME TO A MOMENTUS DESCISION!"
@@ -289,6 +306,7 @@
     "comic_id": 82,
     "guest_artist": "Magaly Obas",
     "description": "This is just the first part of a two-part installment. The second part was never published at https://qwantz.com/index.php?comic=82, but both parts can be read at https://qwantz.com/20030523.html",
+    "footer": ["www.qwantz.com"],
     "panels": [
       [
         "Narrator: Time for a comic about...",
@@ -319,7 +337,10 @@
   "guest/john1.png": {
     "comic_id": 83,
     "guest_artist": "John De Jong",
-    "copyright_text": "(C) 2003 〚light grey〛 John De Jong. All Rights Reversed.",
+    "footer": [
+      "(C) 2003 〚light grey〛 John De Jong. All Rights Reversed.",
+      "www.qwantz.com"
+    ],
     "panels": [
       [
         "Narrator: What If... All Dinosaurs Were Stand-Up Comedians?",
@@ -350,6 +371,10 @@
     "comic_id": 84,
     "guest_artist": "Mel Tayler",
     "description": "All images are replaced with cute colouring-book-style images, coloured with crayons",
+    "footer": [
+      "(C) 2003 Ryan North",
+      "www.qwantz.com"
+    ],
     "panels": [
       [
         "Narrator: Cute Hand Drawn Dinosaur Comics"
@@ -377,6 +402,10 @@
     "comic_id": 85,
     "guest_artist": "Randy North",
     "description": "All comic text is hand-written on a blank Dinosaur Comic printout",
+    "footer": [
+      "(C) 2003 Ryan North",
+      "www.qwantz.com"
+    ],
     "panels": [
       [
         "T-Rex: LATELY I HAVE BEEN QUESTIONING MY CHOICE TO REMAIN SINGLE."
@@ -404,6 +433,10 @@
     "guest_artist": "Joey Comeau and Emily Horne",
     "guest_artist_url": "http://www.asofterworld.com/",
     "description": "All comic text looks like from a typewriter",
+    "footer": [
+      "(C) 2003 Ryan North",
+      "www.qwantz.com"
+    ],
     "panels": [
       [
         "T-Rex: Today I will become..."
@@ -434,6 +467,9 @@
     "guest_artist": "THE AUTHORS",
     "guest_artist_url": "http://www.yellow5.com/pokey/",
     "description": "All comic text is in italics, and characters' lines are in hand-drawn speech balloons",
+    "footer": [
+      "www.qwantz.com"
+    ],
     "panels": [
       [
         "Narrator: ONE DAY IN THE ARCTIC CIRCLE........"
@@ -464,8 +500,10 @@
   },
   "guest/darryl-weddingsinger.png": {
     "comic_id": 88,
-    "copyright_text": "©2003 Ryan North. Text by Darryl Payne",
-    "footer_url": "www.qwantz.com and www.tetris.ca",
+    "footer": [
+      "©2003 Ryan North. Text by Darryl Payne",
+      "www.qwantz.com and www.tetris.ca"
+    ],
     "guest_artist": "Darryl Payne",
     "guest_artist_url": "http://www.tetris.ca",
     "description": "All characters in all panels have blurry diagonal smudges and white blots",
@@ -497,8 +535,10 @@
   },
   "guest2/whiteninja.gif": {
     "comic_id": 155,
-    "copyright_text": "Guest strip by Scott Bevan and Kent Earle of White Ninja Comics",
-    "footer_url": "www.whiteninjacomics.com",
+    "footer": [
+      "Guest strip by Scott Bevan and Kent Earle of White Ninja Comics",
+      "www.whiteninjacomics.com"
+    ],
     "description": "All images are replaced with line drawings and the comic text is hand-written",
     "guest_artist": "Scott Bevan and Kent Earle",
     "guest_artist_url": "http://www.whiteninjacomics.com",
@@ -563,6 +603,10 @@
     "description": "All speech is in grey speech balloons, mostly rectangular",
     "guest_artist": "Joseph Kovell",
     "guest_artist_url": "http://noneedforbushido.keenspace.com/",
+    "footer": [
+      "(C) 2003 Ryan North",
+      "www.qwantz.com"
+    ],
     "panels": [
       [
         "T-Rex: Today is a good day, I think, for a guest comic."
@@ -614,7 +658,10 @@
   },
   "guest2/dinosaurtyrones.png": {
     "comic_id": 159,
-    "copyright_text": "R. Sikoryak & E. O'Neill",
+    "footer": [
+      "R. Sikoryak & E. O'Neill",
+      "www.qwantz.com"
+    ],
     "guest_artist": "R. Sikoryak & E. O'Neill",
     "guest_artist_url": "http://www.rsikoryak.com/",
     "panels": [
@@ -646,8 +693,10 @@
   },
   "guest2/jerdinocomic.gif": {
     "comic_id": 160,
-    "copyright_text": "jeremy clarke for dinosaur comics",
-    "footer_url": "simianuprising.com qwantz.com",
+    "footer": [
+      "jeremy clarke for dinosaur comics, simianuprising.com qwantz.com",
+      "09-12-03"
+    ],
     "guest_artist": "Jeremy Clarke",
     "guest_artist_url": "http://simianuprising.com",
     "description": "T-Rex and Utahraptor are replaced by faceless human characters. T-Rex is replaced by a person wearing a white shirt, striped tie and grey pants (Tie), and Utahraptor is replaces by a person in a light grey t-shirt and blue shorts (Shorts). Dromiceiomimus is absent and not replaced by anything.",
@@ -678,7 +727,9 @@
   },
   "guest2/jpdinocomics.gif": {
     "comic_id": 161,
-    "copyright_text": "Guest comic by justin pierce of www.killroyandtina.com",
+    "footer": [
+      "Guest comic by justin pierce of www.killroyandtina.com"
+    ],
     "guest_artist": "Justin Pierce",
     "guest_artist_url": "http://www.killroyandtina.com",
     "panels": [
@@ -710,7 +761,10 @@
   "guest3/dreamscometrue.jpg": {
     "comic_id": 272,
     "description": "Instead of the usual images, there are pictures of the dinosaurs made of plasticine",
-    "copyright_text": "(C) 2004 Ryan North + O",
+    "footer": [
+      "(C) 2004 Ryan North + O",
+      "www.qwantz.com"
+    ],
     "guest_artist": "O",
     "guest_artist_url": "http://needlefetish.net/tekuteku/",
     "panels": [
@@ -742,7 +796,7 @@
   "guest3/0273 - zole1.png": {
     "comic_id": 273,
     "description": "The first part of a two-part comic",
-    "footer_url": "www.zole.org/extremist * www.qwantz.com",
+    "footer": ["www.zole.org/extremist * www.qwantz.com"],
     "guest_artist": "Michael Zole",
     "guest_artist_url": "http://www.zole.org/extremist",
     "panels": [
@@ -774,7 +828,7 @@
   "guest3/0273 - zole2.png": {
     "comic_id": 273,
     "description": "The second part of a two-part comic; the original title text, as seen at https://qwantz.com/20040316.html, was \"that's right: he can rhyme orange!\"",
-    "footer_url": "www.zole.org/extremist * www.qwantz.com",
+    "footer": ["www.zole.org/extremist * www.qwantz.com"],
     "guest_artist": "Michael Zole",
     "guest_artist_url": "http://www.zole.org/extremist",
     "panels": [
@@ -855,7 +909,10 @@
     "description": "A hand-drawn comic with a non-standard composition of panels",
     "guest_artist": "Dave Bort",
     "guest_artist_url": "http://www.spies.com/~dbort/drarings/",
-    "copyright_text": "Characters ©2004 Ryan North qwantz.com Comic ©2004 Dave Bort",
+    "footer": [
+      "Characters ©2004 Ryan North qwantz.com",
+      "Comic ©2004 Dave Bort"
+    ],
     "panels": [
       [
         "Dromiceiomimus: Hey,T-Rex!",
@@ -924,7 +981,9 @@
   "guest3/asofterworld.png": {
     "comic_id": 278,
     "description": "The comic is based on the standard template converted to greyscale",
-    "copyright_text": "copyright 2004 Ryan North from www.qwantz.com and joey comeau from www.asofterworld.com",
+    "footer": [
+      "copyright 2004 Ryan North from www.qwantz.com and joey comeau from www.asofterworld.com"
+    ],
     "guest_artist": "Joey Comeau",
     "guest_artist_url": "http://www.asofterworld.com",
     "panels": [
@@ -981,8 +1040,10 @@
   },
   "guest3/pig.png": {
     "comic_id": 280,
-    "copyright_text": "characters (C) Ryan North",
-    "footer_url": "www.pigrelated.l2p.net",
+    "footer": [
+      "characters (C) Ryan North",
+      "www.pigrelated.l2p.net"
+    ],
     "description": "Images are crude drawings with thick black outlines",
     "guest_artist": "Pieter Serkeyn",
     "guest_artist_url": "http://www.pigrelated.l2p.net",
@@ -1012,7 +1073,10 @@
   "guest3/chugworth.jpg": {
     "comic_id": 281,
     "description": "The comic is much more comic-book-like than usual, in all regards",
-    "footer_url": "http://chugworth.com/ http://qwantz.com/",
+    "footer": [
+      "http://chugworth.com/",
+      "http://qwantz.com/"
+    ],
     "guest_artist": "Dave Cheung",
     "guest_artist_url": "http://chugworth.com/",
     "panels": [
@@ -1062,6 +1126,7 @@
     "comic_id": 282,
     "guest_artist": "Matt Shepherd",
     "guest_artist_url": "http://www.deadfunny.com/",
+    "footer": ["www.qwantz.com"],
     "panels": [
       [
         "T-Rex: Know what I hate? Comics that break the \"fourth wall!\"",
@@ -1090,7 +1155,10 @@
   "guest3/justin1.png": {
     "comic_id": 283,
     "description": "Two comics in one image. Originally they were in separate files, as seen at https://qwantz.com/20040330.html, and the second one's title text was \"press all the buttons to make sure the counter runs down and nobody else can take your game\"",
-    "copyright_text": "(C) 2004 Ryan North GUEST COMIC BY JUSTIN PIERCE",
+    "footer": [
+      "(C) 2004 Ryan North",
+      "GUEST COMIC BY JUSTIN PIERCE"
+    ],
     "guest_artist": "Justin Pierce",
     "guest_artist_url": "http://www.killroyandtina.com/",
     "panels": [
@@ -1394,7 +1462,10 @@
   },
   "guest4/dino1.png": {
     "comic_id": 342,
-    "copyright_text": "(C) 2004 Ryan North & Per Jorner",
+    "footer": [
+      "(C) 2004 Ryan North & Per Jorner",
+      "www.qwantz.com"
+    ],
     "guest_artist": "Per Jorner",
     "panels": [
       [
@@ -1424,7 +1495,10 @@
   },
   "guest4/dino2.png": {
     "comic_id": 343,
-    "copyright_text": "(C) 2004 Ryan North & Per Jorner",
+    "footer": [
+      "(C) 2004 Ryan North & Per Jorner",
+      "www.qwantz.com"
+    ],
     "guest_artist": "Per Jorner",
     "panels": [
       [
@@ -1454,7 +1528,10 @@
   },
   "guest4/dino7.png": {
     "comic_id": 344,
-    "copyright_text": "(C) 2004 Ryan North & Per Jorner",
+    "footer": [
+      "(C) 2004 Ryan North & Per Jorner",
+      "www.qwantz.com"
+    ],
     "guest_artist": "Per Jorner",
     "panels": [
       [
@@ -1483,7 +1560,10 @@
   },
   "guest4/dino5.png": {
     "comic_id": 345,
-    "copyright_text": "(C) 2004 Ryan North & Per Jorner",
+    "footer": [
+      "(C) 2004 Ryan North & Per Jorner",
+      "www.qwantz.com"
+    ],
     "guest_artist": "Per Jorner",
     "panels": [
       [
@@ -1513,7 +1593,10 @@
   },
   "guest4/dino3.png": {
     "comic_id": 346,
-    "copyright_text": "(C) 2004 Ryan North & Per Jorner",
+    "footer": [
+      "(C) 2004 Ryan North & Per Jorner",
+      "www.qwantz.com"
+    ],
     "guest_artist": "Per Jorner",
     "panels": [
       [
@@ -1563,7 +1646,9 @@
   },
   "guest5/trexmilkshake.jpg": {
     "comic_id": 485,
-    "copyright_text": "by Allene!",
+    "footer": [
+      "by Allene!"
+    ],
     "guest_artist": "Allene Chomyn",
     "guest_artist_url": "http://www.livejournal.com/users/allenec/",
     "panels": [
@@ -1577,7 +1662,10 @@
   },
   "guest5/jeph.png": {
     "comic_id": 486,
-    "copyright_text": "(C) 2005 Ryan North Guest strip by J. Jacques of questionablecontent.net",
+    "footer": [
+      "(C) 2005 Ryan North",
+      "Guest strip by J. Jacques of questionablecontent.net"
+    ],
     "guest_artist": "Jeph Jacques",
     "guest_artist_url": "http://www.questionablecontent.net",
     "description": "The images are similar to the standard ones, but smoother",
@@ -1611,8 +1699,10 @@
   },
   "guest5/james.png": {
     "comic_id": 487,
-    "copyright_text": "(C) 2005 James Turner",
-    "footer_url": "beaverandsteve.com",
+    "footer": [
+      "(C) 2005 James Turner",
+      "beaverandsteve.com"
+    ],
     "guest_artist": "James Turner",
     "guest_artist_url": "http://www.beaverandsteve.com",
     "panels": [
@@ -1652,7 +1742,10 @@
   },
   "guest5/nick.png": {
     "comic_id": 488,
-    "copyright_text": "(C) 2004 Ryan North with thanks Nicky Gurewitch",
+    "footer": [
+      "(C) 2004 Ryan North with thanks Nicky Gurewitch",
+      "www.qwantz.com"
+    ],
     "guest_artist": "Nicky Gurewitch",
     "guest_artist_url": "http://www.thepbf.com",
     "panels": [
@@ -1682,7 +1775,9 @@
     "description": "The comic resembles a page from a comic book",
     "guest_artist": "Justin Pierce",
     "guest_artist_url": "http://www.killroyandtina.com",
-    "copyright_text": "BY JUSTIN PIERCE, WITH APOLOGIES TO RYAN AND ROSEMARY",
+    "footer": [
+      "BY JUSTIN PIERCE, WITH APOLOGIES TO RYAN AND ROSEMARY"
+    ],
     "panels": [
       [
         "T-Rex: PEOPLE OF SPACE, I HEAR YOUR PLEA...",
@@ -1726,7 +1821,10 @@
   },
   "guest5/aaron.gif": {
     "comic_id": 490,
-    "copyright_text": "GUEST COMIC BY AARON FARBER OF HTTP://WWW.MENINHATS.COM",
+    "footer": [
+      "DINOSAUR COMICS IS (C) 2005 RYAN NORTH",
+      "GUEST COMIC BY AARON FARBER OF HTTP://WWW.MENINHATS.COM"
+    ],
     "guest_artist": "Aaron Farber",
     "guest_artist_url": "http://www.meninhats.com",
     "description": "The images are similar to the standard ones, but smoother and simpler",
@@ -1755,8 +1853,11 @@
   },
   "guest5/hirsch.gif": {
     "comic_id": 491,
-    "copyright_text": "Daily Dinosaur Comics by Ryan North | Big Top Comics by Andy Hirsch",
-    "footer_url": "www.bigtopcomics.com",
+    "footer": [
+      "Daily Dinosaur Comics by Ryan North",
+      "Big Top Comics by Andy Hirsch",
+      "www.bigtopcomics.com"
+    ],
     "guest_artist": "Andy Hirsch",
     "guest_artist_url": "http://www.bigtopcomics.com",
     "description": "The images are replaced with hand-drawn black-and-white ones, where T-Rex is replaced by a person with a cap and Glasses, Dromiceiomimus by one with No Cap, and Utahraptor with one wearing their Cap Backwards",
@@ -1791,6 +1892,10 @@
   "comic2-joey.png": {
     "comic_id": 509,
     "guest_artist": "Joey Comeau",
+    "footer": [
+      "(C) 2005 Ryan North",
+      "www.qwantz.com"
+    ],
     "panels": [
       [
         "T-Rex: Everybody dies."
@@ -1848,7 +1953,10 @@
   },
   "guest6/dino_comics_guest.png": {
     "comic_id": 655,
-    "copyright_text": "Today's comic by Jamie McGarry (www.lunchbreaktoons.com) Dino Comics are Usually (C) Ryan North",
+    "footer": [
+      "Today's Comic by Jamie McGarry (www.lunchbreaktoons.com)",
+      "Dino Comics are Usually (C) Ryan North"
+    ],
     "description": "In the comic T-Rex is replaced by Ryan North, Dromiceiomimus by a blonde girl Drominica, and Utahraptor by a person in an Orange Shirt. The house, the car and the girl are replaced by lego models.",
     "guest_artist": "Jamie McGarry",
     "guest_artist_url": "http://www.lunchbreaktoons.com",
@@ -1883,8 +1991,12 @@
   },
   "guest6/dinoguest.png": {
     "comic_id": 656,
-    "copyright_text": "Guest comic by Steven Frank",
-    "footer_url": "www.spamusement.com",
+    "footer": [
+      "(C) 2005 Ryan North",
+      "www.qwantz.com",
+      "Guest comic by Steven Frank",
+      "www.spamusement.com"
+    ],
     "guest_artist": "Steven Frank",
     "guest_artist_url": "http://www.spamusement.com",
     "panels": [
@@ -1948,7 +2060,11 @@
   },
   "guest6/guest_qwantz_aLp.jpg": {
     "comic_id": 658,
-    "copyright_text": "guest: Bernie Hou, http://alienlovespredator.com",
+    "footer": [
+      "(C) 2005 Ryan North",
+      "guest: Bernie Hou, http://alienlovespredator.com",
+      "www.qwantz.com"
+    ],
     "guest_artist": "Bernie Hou",
     "guest_artist_url": "http://alienlovespredator.com",
     "description": "In the comic T-Rex is portrayed with a 3D computer graphics model, while Utahraptor seems to be a plastic toy",
@@ -1986,7 +2102,9 @@
   },
   "guest6/estrada.jpg": {
     "comic_id": 659,
-    "copyright_text": "By Ryan E for Ryan N.",
+    "footer": [
+      "By Ryan E for Ryan N."
+    ],
     "guest_artist": "Ryan Estrada",
     "description": "It's five separate comics in one image, all using the same template, hand-drawn based on the standard one",
     "panels": [
@@ -2133,7 +2251,10 @@
   },
   "guest6/dinoguest_jrosenberg.png": {
     "comic_id": 662,
-    "copyright_text": "©2005 Jonathan Rosenberg. This is a guest strip! Please visit www.goats.com",
+    "footer": [
+      "©2005 Jonathan Rosenberg. This is a guest strip! Please visit www.goats.com",
+      "www.qwantz.com"
+    ],
     "guest_artist": "Jonathan Rosenberg",
     "guest_artist_url": "http://www.goats.com",
     "description": "The comic has hand-drawn expressive dinosaurs in place of the standard ones",
@@ -2162,8 +2283,10 @@
   },
   "guest6/dino_guest_strip.gif": {
     "comic_id": 663,
-    "copyright_text": "Guest strip by Jim Burgess",
-    "footer_url": "Able and Baker - jimburgessdesign.com/comics",
+    "footer": [
+      "Guest strip by Jim Burgess",
+      "Able and Baker - jimburgessdesign.com/comics"
+    ],
     "guest_artist": "Jim Burgess",
     "guest_artist_url": "http://jimburgessdesign.com/comics",
     "description": "This comic has cute hand-drawn dinosaurs in place of the standard ones",
@@ -2192,7 +2315,9 @@
   },
   "guest7/mcninjaqwantz.gif": {
     "comic_id": 993,
-    "copyright_text": "GUEST DINOSAUR COMICS BY CHRIS HASTINGS AND KENT ARCHER, DRMCNINJA.COM",
+    "footer": [
+      "GUEST DINOSAUR COMICS BY CHRIS HASTINGS AND KENT ARCHER, DRMCNINJA.COM"
+    ],
     "guest_artist": "Chris Hastings and Kent Archer",
     "guest_artist_url": "http://drmcninja.com",
     "description": "The comic is in greyscale with more realistic art and is not based on the standard template",
@@ -2252,8 +2377,10 @@
   },
   "guest7/gueststrip-liz.gif": {
     "comic_id": 994,
-    "copyright_text": "GUEST STRIP BY LIZ GREENFIELD",
-    "footer_url": "WWW.STUFFSUCKS.COM",
+    "footer": [
+      "GUEST STRIP BY LIZ GREENFIELD",
+      "WWW.STUFFSUCKS.COM"
+    ],
     "guest_artist": "Liz Greenfield",
     "guest_artist_url": "http://www.stuffsucks.com",
     "description": "The comic has hand-drawn pictures where T-Rex is athletic, has unusually dark green skin and wears sunglasses. The text is mostly red, unless stated otherwise. The first six panels mostly follow the standard template, with a large seventh panel below.",
@@ -2337,8 +2464,12 @@
   },
   "guest7/a_dinocomic_01.jpg": {
     "comic_id": 996,
-    "copyright_text": "ART AND WORDS BY AARON DIAZ",
-    "footer_url": "DRESDENCODAK.COM",
+    "footer": [
+      "ART AND WORDS BY AARON DIAZ",
+      "DRESDENCODAK.COM",
+      "DINOSAUR COMICS © 2007 RYAN NORTH",
+      "QWANTZ.COM"
+    ],
     "guest_artist": "Aaron Diaz",
     "guest_artist_url": "http://dresdencodak.com",
     "description": "The comic uses more realistic images, where Dromiceiomimus and Utahraptor are feathered and there are some landscapes in backgrounds",
@@ -2402,7 +2533,9 @@
   },
   "guest7/fx070514dinosaur.jpg": {
     "comic_id": 998,
-    "copyright_text": "ERIC @fetusx.com 4 Ryan North",
+    "footer": [
+      "ERIC @fetusx.com 4 Ryan North"
+    ],
     "guest_artist": "Eric Millikin",
     "guest_artist_url": "http://fetusx.com",
     "description": "A single panel with a really weird image depicting T-Rex and a black frame containing the text",
@@ -2415,7 +2548,9 @@
   },
   "comic2-9028.jpg": {
     "comic_id": 1073,
-    "copyright_text": "Dinosaur Comics is byRyan North but this guest comic is by Ryan Estrada. i know, it's confusing, geez!",
+    "footer": [
+      "Dinosaur Comics is byRyan North but this guest comic is by Ryan Estrada. i know, it's confusing, geez!"
+    ],
     "guest_artist": "Ryan Estrada",
     "description": "The comic has cute images of baby dinosaurs and mostly follows the standard template",
     "panels": [
@@ -2449,8 +2584,10 @@
   },
   "comic2-6583.png": {
     "comic_id": 1324,
-    "copyright_text": "© 2008 Ryan North / David Malki !",
-    "footer_url": "wondermark.com—qwantz.com",
+    "footer": [
+      "© 2008 Ryan North / David Malki !",
+      "wondermark.com—qwantz.com"
+    ],
     "guest_artist": "David Malki !",
     "guest_artist_url": "http://www.wondermark.com",
     "description": "The comic has an old-paper-like background and classy retro illustrations, and rather closely follows the standard template",
@@ -2515,7 +2652,7 @@
   },
   "comic2-1353.png": {
     "comic_id": 1326,
-    "footer_url": "WWW.KATEBEATON.COM",
+    "footer": ["WWW.KATEBEATON.COM"],
     "guest_artist": "Kate Beaton",
     "guest_artist_url": "http://www.katebeaton.com/",
     "description": "The comic has black-and-white line art, otherwise closely follows the standard template",
@@ -2587,6 +2724,10 @@
     "comic_id": 1328,
     "guest_artist": "Randall Munroe",
     "guest_artist_url": "http://www.xkcd.com",
+    "footer": [
+      "(C) 2008 Ryan North",
+      "www.qwantz.com"
+    ],
     "panels": [
       [
         "T-Rex: I have for you today the SEXIEST DINOSAUR COMICS STORY OF ALL TIME! It is sexy!"
@@ -2614,8 +2755,10 @@
   },
   "comic2-6537.gif": {
     "comic_id": 1482,
-    "copyright_text": "GUEST COMIC BY CARLY MONARDO",
-    "footer_url": "WHIRRINGBLENDER.COM",
+    "footer": [
+      "DINOSAUR COMICS IS (C) RYAN NORTH",
+      "GUEST COMIC BY CARLY MONARDO WHIRRINGBLENDER.COM"
+    ],
     "guest_artist": "Carly Monardo",
     "guest_artist_url": "http://www.lasagnachildren.com/Carly/",
     "description": "The comic has cute hand-drawn images and loosely follows the standard template",
@@ -2645,7 +2788,10 @@
   },
   "comic2-8316.gif": {
     "comic_id": 1483,
-    "copyright_text": "Guest comic by Ben Driscoll, of daisyowl.com",
+    "footer": [
+      "© 2009 Ryan North",
+      "Guest comic by Ben Driscoll, of daisyowl.com"
+    ],
     "guest_artist": "Ben Driscoll",
     "guest_artist_url": "http://daisyowl.com/",
     "description": "The comic has greyscale images with white dinosaurs on grey background, and closely resembles the standard template",
@@ -2751,7 +2897,10 @@
   },
   "comic2-8851.jpg": {
     "comic_id": 1485,
-    "copyright_text": "Dino Comix by Ryan North - qwantz.com except this one is by Michal Firman (firmanproductions.com)",
+    "footer": [
+      "Dino Comix by Ryan North - qwantz.com",
+      "except this one is by Michal Firman (firmanproductions.com)"
+    ],
     "guest_artist": "Michael Firman",
     "guest_artist_url": "http://www.firmanproductions.com/",
     "description": "This comic has extra quirky images, but otherwise follows the standard template",
@@ -2782,7 +2931,10 @@
   },
   "comic2-619.gif": {
     "comic_id": 1486,
-    "copyright_text": "(C) 2009 Ryan North. However, today we must hold Andrew Hussie culpable for this content.",
+    "footer": [
+      "(C) 2009 Ryan North. However, today we must hold Andrew Hussie culpable for this content.",
+      "www.qwantz.com"
+    ],
     "guest_artist": "Andrew Hussie",
     "guest_artist_url": "http://www.mspaintadventures.com/",
     "description": "At a glance this is a standard template, but the comic uses animation to change the text in panels periodically. The animation has 28 frames and each takes 3 seconds, it loops every 84 seconds.",
@@ -2928,7 +3080,11 @@
   },
   "badmachinery.png": {
     "comic_id": 1767,
-    "copyright_text": "GUEST STRIP BY J. ALLISON // SCARYGROUND.COM",
+    "footer": [
+      "(c)2010 Ryan North",
+      "GUEST STRIP BY J. ALLISON // SCARYGROUND.COM",
+      "www.qwantz.com"
+    ],
     "guest_artist": "John Allison",
     "guest_artist_url": "http://scarygoround.com/",
     "description": "The comic has smoother images than the standard template, otherwise it's the basically the same",
@@ -2962,8 +3118,10 @@
   },
   "wondermark.png": {
     "comic_id": 1768,
-    "copyright_text": "(C) 2010 Ryan North / David Malki !",
-    "footer_url": "www.wondermark.com",
+    "footer": [
+      "(C) 2010 Ryan North / David Malki !",
+      "www.wondermark.com"
+    ],
     "guest_artist": "David Malki !",
     "guest_artist_url": "http://www.wondermark.com",
     "description": "The comic has classy old-timey greyscale images of animals, mostly antropomorphic. The comic looks like two templates stacked, but actually the panels don't follow the standard template.",
@@ -3056,8 +3214,12 @@
   },
   "hijinksensue.jpg": {
     "comic_id": 1770,
-    "copyright_text": "GUEST COMIC BY JOEL WATSON",
-    "footer_url": "WWW.HIJINKSENSUE.COM",
+    "footer": [
+      "© 2010 RYAN NORTH",
+      "WWW.QWANTZ.COM",
+      "GUEST COMIC BY JOEL WATSON",
+      "WWW.HIJINKSENSUE.COM"
+    ],
     "guest_artist": "Joel Watson",
     "guest_artist_url": "http://hijinksensue.com/",
     "description": "The last two panels mimic the standard template, but the others are completely different",
@@ -3120,7 +3282,11 @@
   },
   "amazingsuperpowers.png": {
     "comic_id": 1772,
-    "copyright_text": "GUEST STRIP FROM AMAZINGSUPERPOWERS.COM",
+    "footer": [
+      "(C) Ryan North 2010",
+      "GUEST STRIP FROM AMAZINGSUPERPOWERS.COM",
+      "WWW.QWANTZ.COM"
+    ],
     "guest_artist": "Wes and Tony",
     "guest_artist_url": "http://amazingsuperpowers.com/",
     "description": "The comic is not based on the standard template",
@@ -3145,7 +3311,11 @@
   },
   "samandfuzzy.gif": {
     "comic_id": 1773,
-    "copyright_text": "Guest strip by Sam Logan (samandfuzzy.com)",
+    "footer": [
+      "(C) 2010 Ryan North",
+      "Guest strip by Sam Logan (samandfuzzy.com)",
+      "www.qwantz.com"
+    ],
     "guest_artist": "Sam Logan",
     "guest_artist_url": "http://samandfuzzy.com/",
     "description": "The comic uses the standard template followed by two extra panels",
@@ -3246,7 +3416,9 @@
   },
   "overcompensating.png": {
     "comic_id": 1775,
-    "copyright_text": "GUEST COMIC BY J ROWLAND (c) 2010 RYAN NORTH | STARRING JENN KLUG IN PANEL 4 | CONGRATULATIONS RYAN AND JENN I HOPE BEING MARRIED IS FUN",
+    "footer": [
+      "GUEST COMIC BY J ROWLAND (c) 2010 RYAN NORTH | STARRING JENN KLUG IN PANEL 4 | CONGRATULATIONS RYAN AND JENN I HOPE BEING MARRIED IS FUN"
+    ],
     "guest_artist": "Jeff Rowland",
     "guest_artist_url": "http://www.overcompensating.com/",
     "description": "The comic uses a close-to-standard template with dinosaurs replaced by hand-drawn humans wearing fake dinosaur heads. T-Rex is replaced by a male-presenting person wearing a red t-shirt that says WHAT, while the other two are replaced by two female-presenting people",
@@ -3279,7 +3451,9 @@
   },
   "firmanproductions.gif": {
     "comic_id": 1776,
-    "copyright_text": "Absolute best wishes to Ryan and Jennifer! Congratulations!",
+    "footer": [
+      "Absolute best wishes to Ryan and Jennifer! Congratulations!"
+    ],
     "guest_artist": "Michael Firman",
     "guest_artist_url": "http://www.firmanproductions.com/",
     "description": "The comic uses a close-to-standard template with dinosaurs replaced by hand-drawn humans in wedding outfits, presumably Ryan North (as T-Rex) and Jenn Klug (as both Dromiceiomimus and Utahraptor)",
@@ -3342,7 +3516,10 @@
   },
   "trexismissing.png": {
     "comic_id": 1800,
-    "copyright_text": "ANTHONY CLARK · NEDROID.COM",
+    "footer": [
+      "RYAN NORTH · QWANTZ.COM",
+      "ANTHONY CLARK · NEDROID.COM"
+    ],
     "guest_artist": "Anthony Clark",
     "guest_artist_url": "http://www.nedroid.com",
     "description": "The comic is based on the standard template, with a few substantial changes: the first panel only contains the title, there is a forest background, there are three extra panels and T-Rex is absent on most panels",
@@ -3379,7 +3556,11 @@
   },
   "kcgreen.png": {
     "comic_id": 1801,
-    "copyright_text": "guest comic by kc green (gunshowcomic.com)",
+    "footer": [
+      "© 2010 Ryan North",
+      "guest comic by kc green (gunshowcomic.com)",
+      "www.qwantz.com"
+    ],
     "guest_artist": "KC Green",
     "guest_artist_url": "http://gunshowcomic.com/",
     "description": "The comic is based on the standard template, with simplified images and added stuff",
@@ -3413,7 +3594,9 @@
   },
   "guestmcguire.png": {
     "comic_id": 1802,
-    "copyright_text": "GUESTRATED BY DAVID MCGUIRE",
+    "footer": [
+      "GUESTRATED BY DAVID MCGUIRE"
+    ],
     "guest_artist": "David McGuire",
     "guest_artist_url": "http://www.gastrophobia.com/",
     "description": "The comic uses a close-to-standard template, hand-drawn with backgrounds",
@@ -3452,6 +3635,7 @@
     "comic_id": 2264,
     "guest_artist": "Andrew Hussie",
     "guest_artist_url": "http://www.mspaintadventures.com",
+    "footer": ["www.qwantz.com"],
     "panels": [
       [
         "T-Rex: Utahraptor, come get a sick load of this totally 〚large〛 WICKED HORSE 〚end large〛 I just scoped out!"
@@ -3476,7 +3660,11 @@
   },
   "guest8/qwantzguestkc2013.png": {
     "comic_id": 2613,
-    "copyright_text": "Guest by KC Green • gunshowcomic.com",
+    "footer": [
+      "(c) 2013 Ryan North",
+      "Guest by KC Green • gunshowcomic.com",
+      "www.qwantz.com"
+    ],
     "guest_artist": "KC Green",
     "guest_artist_url": "http://www.gunshowcomic.com",
     "description": "The comic is mostly based on the standard template, with different art style, but most importantly T-Rex doesn't have a head",
@@ -3508,7 +3696,9 @@
   },
   "comic2-guest-mice1.png": {
     "comic_id": 2890,
-    "copyright_text": "HE ALSO NEVER EVER THROWS UP. HE'S SO GREAT.",
+    "footer": [
+      "HE ALSO NEVER EVER THROWS UP. HE'S SO GREAT."
+    ],
     "guest_artist": "Braden Lamb",
     "guest_artist_url": "http://www.bradenlamb.com/",
     "description": "The comic has images with feathered dinosaurs dressed as stereotypical scientists, otherwise following the standard template",
@@ -3578,7 +3768,9 @@
   },
   "comic2-guest-mice3.png": {
     "comic_id": 2892,
-    "copyright_text": "patt",
+    "footer": [
+      "patt"
+    ],
     "guest_artist": "Patt Kelley",
     "guest_artist_url": "http://www.pattkelley.com/",
     "description": "The comic very loosely follows the standard template, but there are still six panels with dinosaurs in them",
@@ -3626,7 +3818,10 @@
   },
   "ohno.png": {
     "comic_id": 3417,
-    "footer_url": "webcomicname.com",
+    "footer": [
+      "webcomicname.com",
+      "qwantz.com"
+    ],
     "guest_artist": "Alex Norris",
     "guest_artist_url": "http://webcomicname.com/",
     "description": "The comic uses extremely simplified images that follow the standard template",
@@ -3641,7 +3836,10 @@
   },
   "buff.png": {
     "comic_id": 3418,
-    "copyright_text": "SHEN 〚face icon〛",
+    "footer": [
+      "SHEN 〚face icon〛",
+      "WWW.QWANTZ.COM"
+    ],
     "guest_artist": "Shen",
     "guest_artist_url": "http://shencomix.com/",
     "description": "The comic follows the standard template, with characters replaced by athletic humanoids, labelled with their names",
@@ -3668,7 +3866,10 @@
   },
   "falseknees.png": {
     "comic_id": 3442,
-    "footer_url": "FALSEKNEES.com",
+    "footer": [
+      "FALSEKNEES.COM",
+      "QWANTZ.COM"
+    ],
     "guest_artist": "Joshua Barkman",
     "guest_artist_url": "http://falseknees.com/",
     "description": "The comic follows the standard template, except that all the dinosaurs have feathers",
