@@ -793,7 +793,7 @@
       ]
     ]
   },
-  "guest3/0273 - zole1.png": {
+  "guest3/zole1.png": {
     "comic_id": 273,
     "description": "The first part of a two-part comic",
     "footer": ["www.zole.org/extremist * www.qwantz.com"],
@@ -825,7 +825,7 @@
       ]
     ]
   },
-  "guest3/0273 - zole2.png": {
+  "guest3/zole2.png": {
     "comic_id": 273,
     "description": "The second part of a two-part comic; the original title text, as seen at https://qwantz.com/20040316.html, was \"that's right: he can rhyme orange!\"",
     "footer": ["www.zole.org/extremist * www.qwantz.com"],
@@ -3816,7 +3816,7 @@
       ]
     ]
   },
-  "ohno.png": {
+  "guest8/ohno.png": {
     "comic_id": 3417,
     "footer": [
       "webcomicname.com",
@@ -3834,7 +3834,7 @@
       ["T-Rex: oh no"]
     ]
   },
-  "buff.png": {
+  "guest8/buff.png": {
     "comic_id": 3418,
     "footer": [
       "SHEN 〚face icon〛",
@@ -3864,7 +3864,7 @@
       ]
     ]
   },
-  "falseknees.png": {
+  "guest8/falseknees.png": {
     "comic_id": 3442,
     "footer": [
       "FALSEKNEES.COM",
