@@ -1,3 +1,4 @@
+import logging
 from collections.abc import Iterator
 from datetime import date
 from typing import NamedTuple
@@ -32,7 +33,24 @@ def parse_qwantz_html(html: str) -> Iterator[MetadataFromHTML]:
     soup = BeautifulSoup(html, features="html.parser")
     images = soup.find_all("img", {"class": "comic"})
     comic_url = get_comic_url(soup)
+    comic_id = int(comic_url.split("=")[1])
+    import json
     for image in images:
+        title_text = fix_encoding(image.attrs["title"])
+        if title_text != image.attrs["title"]:
+            logging.warning(f"{comic_id}: title_text {json.dumps(title_text)}")
+        contact_text = fix_encoding(get_contact_text(soup))
+        if contact_text != get_contact_text(soup):
+            logging.warning(f"{comic_id}: contact_text {json.dumps(contact_text)}")
+        archive_text = fix_encoding(get_archive_text(soup))
+        if archive_text != get_archive_text(soup):
+            logging.warning(f"{comic_id}: archive_text {json.dumps(archive_text)}")
+        haps = fix_encoding(get_haps(soup))
+        if haps != get_haps(soup):
+            logging.warning(f"{comic_id}: haps {json.dumps(haps)}")
+        header_text = fix_encoding(get_header_text(soup))
+        if header_text != get_header_text(soup):
+            logging.warning(f"{comic_id}: header_text {json.dumps(header_text)}")
         yield MetadataFromHTML(
             comic_id=int(comic_url.split("=")[1]),
             comic_url=comic_url,
