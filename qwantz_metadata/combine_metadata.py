@@ -1,11 +1,12 @@
 import dataclasses
 import json
+import sys
 from collections.abc import Iterable, Iterator
 from dataclasses import dataclass
 from importlib.abc import Traversable
 from importlib.resources import files
 from pathlib import Path
-from typing import NamedTuple
+from typing import NamedTuple, IO
 
 import typer
 
@@ -62,7 +63,11 @@ class CombinedMetadata:
 
 
 @app.command()
-def combine_metadata(transcripts_dir: Path, footers_dir: Path, html_dir: Path) -> None:
+def combine_metadata_command(transcripts_dir: Path, footers_dir: Path, html_dir: Path) -> None:
+    combine_metadata(transcripts_dir, footers_dir, html_dir, sys.stdout)
+
+
+def combine_metadata(transcripts_dir: Path, footers_dir: Path, html_dir: Path, output_file: IO[str]) -> None:
     extra_metadata_by_url = {md.image_url: md for md in load_metadata(EXTRA_METADATA_PATH)}
     guest_comics_by_url = {md.image_url: md for md in load_metadata(GUEST_COMICS_PATH)}
     special_comics_by_url = {md.image_url: md for md in load_metadata(SPECIAL_COMICS_PATH)}
@@ -87,7 +92,7 @@ def combine_metadata(transcripts_dir: Path, footers_dir: Path, html_dir: Path) -
         result.append(dataclasses.asdict(combined))
     result.sort(key=lambda md: (md["comic_id"], Path(md["image_url"]).stem))
 
-    print(json.dumps(result, indent=2, ensure_ascii=False))
+    json.dump(result, output_file, indent=2, ensure_ascii=False)
 
 
 def get_transcripts(transcripts_dir: Path) -> Iterator[tuple[str, list[list[str]]]]:
