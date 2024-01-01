@@ -2,3 +2,4 @@ __pycache__
 .envrc
 qwantz_metadata.egg-info
 dist
+build

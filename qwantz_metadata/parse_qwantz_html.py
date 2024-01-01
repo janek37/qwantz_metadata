@@ -39,7 +39,7 @@ def parse_qwantz_html(html: str) -> Iterator[MetadataFromHTML]:
             title_text=image.attrs["title"],
             contact_text=get_contact_text(soup),
             archive_text=get_archive_text(soup),
-            haps=get_haps(soup),
+            haps=get_blog_post(soup),
             header_text=get_header_text(soup),
             image_link_target=image.parent.attrs["href"] if image.parent.name == "a" else None,
         )
@@ -65,39 +65,29 @@ def get_header_text(soup: BeautifulSoup) -> str | None:
         return inner_html
 
 
-def get_haps(soup: BeautifulSoup) -> str | None:
-    blogpost = get_blogpost(soup)
-    if len(blogpost.contents) > 3:
-        main_content = blogpost.contents[3]
+def get_blog_post(soup: BeautifulSoup) -> str | None:
+    rss_content_spans = soup.find_all("span", {"class": "rss-content"})
+    if len(rss_content_spans) > 3:
+        main_content = rss_content_spans[3]
         haps = main_content.decode_contents()
-        return haps[:haps.find(ONE_YEAR_AGO)]
+        blog_post = haps[:haps.find(ONE_YEAR_AGO)]
+        return None if EMPTY_HAPS in blog_post else blog_post
 
 
 def get_date(soup: BeautifulSoup) -> date:
-    blogpost = get_blogpost(soup)
-    if len(blogpost.contents) > 3:
-        date_text = blogpost.b.text[:-1]
-    else:
-        placeholder_text = blogpost.contents[1].text
-        assert EMPTY_HAPS in placeholder_text
-        assert placeholder_text.startswith(EMPTY_HAPS_DATE_PREFIX)
-        date_text = placeholder_text.split("!")[0][len(EMPTY_HAPS_DATE_PREFIX):]
+    date_text = soup.find("title").text.split(" - ")[1]
     return parse_date(date_text)
 
 
 def get_image_url(image: Tag) -> str:
     image_path = image.attrs["src"]
     if not image_path.startswith("/") and not image_path.startswith("http"):
-        image_path = "/" + image_path
+        image_path = "/" + image_path.replace('//', '/')
     return image_path if image_path.startswith("http") else BASE_URL + image_path
 
 
 def get_comic_url(soup: BeautifulSoup) -> str:
     return soup.find("meta", {"property": "og:url"}).attrs["content"]
-
-
-def get_blogpost(soup: BeautifulSoup) -> Tag:
-    return soup.find("div", {"class": "padded"}).find_all("p")[1]
 
 
 def parse_date(date_text: str) -> date:
