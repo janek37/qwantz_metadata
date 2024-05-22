@@ -1889,34 +1889,6 @@
       ]
     ]
   },
-  "comic2-joey.png": {
-    "comic_id": 509,
-    "guest_artist": "Joey Comeau",
-    "footer": [
-      "(C) 2005 Ryan North",
-      "www.qwantz.com"
-    ],
-    "panels": [
-      [
-        "T-Rex: Everybody dies."
-      ],
-      [
-        "〚no text〛"
-      ],
-      [
-        "〚no text〛"
-      ],
-      [
-        "〚no text〛"
-      ],
-      [
-        "〚no text〛"
-      ],
-      [
-        "T-Rex: But we've still got some time!"
-      ]
-    ]
-  },
   "guest6/scarygoround.png": {
     "comic_id": 654,
     "guest_artist": "John Allison",
