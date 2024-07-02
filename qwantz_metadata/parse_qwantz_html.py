@@ -22,7 +22,7 @@ class MetadataFromHTML(NamedTuple):
     contact_text: str
     archive_text: str
     haps: str | None
-    header_text: str | None
+    header_texts: list[str]
     image_link_target: str | None
 
 
@@ -40,7 +40,7 @@ def parse_qwantz_html(html: str) -> Iterator[MetadataFromHTML]:
             contact_text=get_contact_text(soup),
             archive_text=get_archive_text(soup),
             haps=get_blog_post(soup),
-            header_text=get_header_text(soup),
+            header_texts=get_header_texts(soup),
             image_link_target=image.parent.attrs["href"] if image.parent.name == "a" else None,
         )
 
@@ -55,14 +55,16 @@ def get_contact_text(soup: BeautifulSoup) -> str:
     return contact_link.attrs["href"][len(MAILTO_PREFIX):]
 
 
-def get_header_text(soup: BeautifulSoup) -> str | None:
-    headertext_div = soup.find("div", {"class": "headertext"})
-    if headertext_div:
+def get_header_texts(soup: BeautifulSoup) -> list[str]:
+    headertext_divs = soup.find_all("div", {"class": "headertext"})
+    results = []
+    for headertext_div in headertext_divs:
         while len(headertext_div.contents) == 1 and isinstance(headertext_div.contents[0], Tag) and headertext_div.contents[0].name in ("p", "center"):
             headertext_div = headertext_div.contents[0]
         inner_html = headertext_div.decode_contents()
         inner_html = inner_html.replace("<p></p>", "").replace("<br/>", "")
-        return inner_html
+        results.append(inner_html)
+    return results
 
 
 def get_blog_post(soup: BeautifulSoup) -> str | None:

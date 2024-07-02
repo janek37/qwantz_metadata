@@ -42,7 +42,7 @@ class CombinedMetadata:
     contact_text: str
     archive_text: str
     haps: str | None
-    header_text: str | None
+    header_texts: list[str]
     image_link_target: str | None
     panels: list[list[str]] | None = None
     description: str | None = None
