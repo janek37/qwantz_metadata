@@ -305,7 +305,7 @@
   "guest/magaly1.png": {
     "comic_id": 82,
     "guest_artist": "Magaly Obas",
-    "description": "This is just the first part of a two-part installment. The second part was never published at https://qwantz.com/index.php?comic=82, but both parts can be read at https://qwantz.com/20030523.html",
+    "description": "This is the first part of a two-part installment.",
     "footer": ["www.qwantz.com"],
     "panels": [
       [
@@ -331,6 +331,39 @@
       [
         "T-Rex: I'm in everybody's bad book??",
         "T-Rex: But I want to be in the GOOD BOOKS!!!"
+      ]
+    ]
+  },
+  "guest/magaly2.png": {
+    "comic_id": 82,
+    "guest_artist": "Magaly Obas",
+    "description": "This is the second part of a two-part installment.",
+    "footer": ["by: Magaly Obas", "www.qwantz.com"],
+    "panels": [
+      [
+        "T-Rex: I've been told that most dinosaurs have a mental bookkeeping system in which they place a dinosaur either in their \"Good Books\" or their \"Bad Books\"."
+      ],
+      [
+        "Narrator: 〚underline〛 GOOD BOOKS, BAD BOOKS",
+        "Narrator: Volume I, Issue II"
+      ],
+      [
+        "T-Rex: Hey Utahraptor, would you say that someone like me is in your Good Books? or your Bad Books?",
+        "Dromiceiomimus: Well, if you actually stomp on that house, I'd say...BAD BOOKS.",
+        "T-Rex: Haha! But since I HAVEN'T yet, that means I'm still clear of the Bad Books!",
+        "Dromiceiomimus: meh!"
+      ],
+      [
+        "T-Rex: I'm in the Good Books! I'm in the Good Books!",
+        "Utahraptor: What are you singing about?"
+      ],
+      [
+        "T-Rex: I'm in the Dromoceimomious' Good Books! Well, I'm not in the Bad Books, and since there are only two books, by default I'm in the Good Books! YES!! Beat THAT!",
+        "Utahraptor: You're in my Bad Books."
+      ],
+      [
+        "T-Rex: ◖*!*◗",
+        "T-Rex: But...but... the Good Books..."
       ]
     ]
   },
@@ -1243,7 +1276,7 @@
   },
   "guest3/dino1-x.gif": {
     "comic_id": 285,
-    "description": "The panels in this comic only have floor, without the other three sides. This is just the first part of the comic. The whole can be read at https://qwantz.com/20040401.html",
+    "description": "The panels in this comic only have floor, without the other three sides. This is the first part of a two-part comic.",
     "guest_artist": "Phiip",
     "guest_artist_url": "http://www.rabbit-comics.org/",
     "panels": [
@@ -1285,6 +1318,45 @@
         "Utahraptor: please hold my hand, I'm scared !",
         "T-Rex: I can't, I'm stuck here !",
         "T-Rex: and I'm not gay !"
+      ]
+    ]
+  },
+  "guest3/dino2-x.jpg": {
+    "comic_id": 285,
+    "description": "The panels in this comic only have floor, without the other three sides. This is the second part of a two-part comic.",
+    "guest_artist": "Phiip",
+    "guest_artist_url": "http://www.rabbit-comics.org/",
+    "footer": [
+      "dino comics, a concept © by Ryan North - sabotaged by Phiip, rabbit comics, 2004"
+    ],
+    "panels": [
+      [
+        "〚the panel is upside-down and shaking violently〛",
+        "T-Rex: aaaaaaaaaaaaaahhh !!",
+        "Utahraptor: aaaaaaaaaaaaaahhh !!"
+      ],
+      [
+        "〚the panel is sideways and still shaking; T-Rex and Utahraptor are partially obscured by white spots〛",
+        "Utahraptor: please hold my hand, now that we are dying !!",
+        "T-Rex: no, wait, it's slowing..."
+      ],
+      [
+        "〚the panel is tilted right; T-Rex and Utahraptor are partially obscured by white spots〛",
+        "Utahraptor: before I die, I must tell you that I love you",
+        "T-Rex: ..."
+      ],
+      [
+        "〚the panel is back to normal, but T-Rex and Utahraptor are still obscured by white spots〛",
+        "T-Rex: it stopped, we're not dying !!",
+        "Utahraptor: hourra !"
+      ],
+      [
+        "〚lapin and ourse verte from Phiip's comics are looking at a snow globe with T-Rex and Utahraptor inside〛",
+        "ourse verte: what's that supposed to be ?",
+        "lapin: a present for your birthday",
+        "ourse verte: this piece of junk ? it sucks !",
+        "ourse verte: I'm outta here !",
+        "Utahraptor: will you marry me ?"
       ]
     ]
   },
