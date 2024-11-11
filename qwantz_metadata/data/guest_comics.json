@@ -168,6 +168,9 @@
     "description": "Characters' speech is not connected with lines, and each character has their own font: T-Rex has bold serif, Dromiceiomimus has sans-serif, and Utahraptor has sans-serif monospace",
     "guest_artist": "Victor North",
     "guest_artist_url": "http://www.insaneabode.com/victor/",
+    "header_texts": [
+      "welcome to guest week! today's comic is by my little brother victor north"
+    ],
     "footer": [
       "(〚C crossed out with a backslash〛) 2003 ◖VICTOR◗North",
       "www.qwantz.com"
@@ -197,11 +200,49 @@
       ]
     ]
   },
+  "guest/comic-bullee.png": {
+    "comic_id": 78,
+    "guest_artist": "Chris Bullee",
+    "header_texts": [
+      "today's SECOND comic is by chris bullee"
+    ],
+    "footer": [
+      "(C) 2003 Ryan North",
+      "www.qwantz.com"
+    ],
+    "panels": [
+      [
+        "T-Rex: Being a cocaine addicted dinosaur of the 80s, you can never predict what you might see. But nonetheless, I love to dance.",
+        "〚motion lines around T-Rex, music notes in the background〛"
+      ],
+      [
+        "T-Rex: MY NOSE! I've take too much again!"
+      ],
+      [
+        "T-Rex: That was bad dinosaur-cocaine! I am going to stomp you like I'll stomp your house! You dirty dinosaur cocaine dealer.",
+        "Dromiceiomimus: You can't catch me! Besides, my car is almost as big as my house, which is WAY too small for me anyways."
+      ],
+      [
+        "T-Rex: I got ripped off again. Let's dance.",
+        "Utahraptor: WAIT! You are gonna step on David Bowie!"
+      ],
+      [
+        "T-Rex: This is Dinosaur to Major Tom. You've really made the grave.",
+        "Utahraptor: Holy Moly! You killed David Bowie. Your lyric adaptations were morbidly funny though."
+      ],
+      [
+        "T-Rex: Like I said, I am a cocaine addicted dinosaur. It's a tough job, but someone's gotta do it."
+      ]
+    ]
+  },
   "guest/victor2.png": {
     "comic_id": 79,
     "description": "All images are in dithered grayscale, except Utahraptor who is just in grayscale. Other than that, characters' speech is not connected with lines, and each character has their own font: T-Rex has bold serif, Dromiceiomimus has sans-serif, and Utahraptor has sans-serif monospace",
     "guest_artist": "Victor North",
     "guest_artist_url": "http://www.insaneabode.com/victor/",
+    "header_texts": [
+      "welcome to guest week! today's comic is by my little brother victor north"
+    ],
     "footer": [
       "(C) 2003 ◖VICTOR◗North",
       "www.qwantz.com"
@@ -230,11 +271,49 @@
       ]
     ]
   },
+  "guest/bullee.png": {
+    "comic_id": 79,
+    "description": "Panels 1-3 are the same as in the standard template, but panels 4-6 are the same three panels repeated",
+    "guest_artist": "Chris Bullee",
+    "header_texts": [
+      "today's SECOND comic is by chris bullee"
+    ],
+    "footer": [
+      "(C) 2003 Ryan North's Secret Admirer",
+      "www.qwantz.com"
+    ],
+    "panels": [
+      [
+        "Narrator: February 2, 2003",
+        "T-Rex: I have the strange feeling that I've been here before, sort of a deja-vu. Can dinosaurs have deja-vu?"
+      ],
+      [
+        "T-Rex: 〚thinks〛 ◖I WAS THINKING THAT YESTERDAY!◗"
+      ],
+      [
+        "T-Rex: Have I not stepped on this before? That car - it looks so very familiar... Am I trapped inside today forever? If I stomp this house, will it be back tomorrow? I wonder...",
+        "Dromiceiomimus: Six more weeks of winter..."
+      ],
+      [
+        "T-Rex: I have the strange feeling that I've been here before, sort of a deja-vu. Can dinosaurs have deja-vu?"
+      ],
+      [
+        "T-Rex: 〚thinks〛 ◖I WAS THINKING THAT YESTERDAY!◗"
+      ],
+      [
+        "T-Rex: Have I not stepped on this before? That car - it looks so very familiar... Am I trapped inside today forever? If I stomp this house, will it be back tomorrow? I wonder...",
+        "Dromiceiomimus: Six more weeks of winter..."
+      ]
+    ]
+  },
   "guest/victor3.png": {
     "comic_id": 80,
     "description": "Characters' speech is not connected with lines, and each character has their own font: T-Rex has bold serif, Dromiceiomimus has sans-serif, and Utahraptor has sans-serif monospace",
     "guest_artist": "Victor North",
     "guest_artist_url": "http://www.insaneabode.com/victor/",
+    "header_texts": [
+      "welcome to guest week! today's comic is by my little brother victor north"
+    ],
     "footer": [
       "(C) 2003 ◖VICTOR◗North",
       "www.qwantz.com"
@@ -269,11 +348,49 @@
       ]
     ]
   },
+  "guest/amandadinosaur.png": {
+    "comic_id": 80,
+    "guest_artist": "Amanda Shiga",
+    "header_texts": [
+      "today's SECOND comic is by amanda shiga"
+    ],
+    "footer": [
+      "(C) 2003 Ryan North",
+      "www.qwantz.com"
+    ],
+    "panels": [
+      [
+        "T-Rex: I've decided to map my family tree.",
+        "T-Rex: Among other things, it will allow me whether that story about my uncle and his Diplodocus \"friend\"..."
+      ],
+      [
+        "T-Rex: was true."
+      ],
+      [
+        "T-Rex: Were my ancestors heroes and kings? Were they artists and philosphers? Were they -",
+        "Dromiceiomimus: I don't mean to be rude, but the T-Rex is not a herd animal. The likelihood of known paternity is slim to none."
+      ],
+      [
+        "T-Rex: But -",
+        "Utahraptor: Yeah - in this area alone, there are 17 male T-Rexes that could potentially be your father."
+      ],
+      [
+        "T-Rex: But I -",
+        "Utahraptor: And hey - didn't most of your known relatives migrate east after \"the incident\"?"
+      ],
+      [
+        "T-Rex: Yeah well - YOUR MOM!"
+      ]
+    ]
+  },
   "guest/victor4.png": {
     "comic_id": 81,
     "description": "Characters' speech is not connected with lines, and each character has their own font: T-Rex has bold serif, Dromiceiomimus has sans-serif, and Utahraptor has sans-serif monospace",
     "guest_artist": "Victor North",
     "guest_artist_url": "http://www.insaneabode.com/victor/",
+    "header_texts": [
+      "welcome to guest week! today's comic is by my little brother victor north"
+    ],
     "footer": [
       "(C) 2003 ◖VICTOR◗North",
       "www.qwantz.com"
@@ -299,6 +416,42 @@
       ],
       [
         "T-Rex: I'VE GOT LOTS OF THOSE!"
+      ]
+    ]
+  },
+  "guest/amandadinosaur2.png": {
+    "comic_id": 81,
+    "guest_artist": "Amanda Shiga",
+    "header_texts": [
+      "today's SECOND comic is by amanda shiga"
+    ],
+    "footer": [
+      "(C) 2003 Ryan North",
+      "www.qwantz.com"
+    ],
+    "panels": [
+      [
+        "Narrator: RUDE MOMENTS",
+        "T-Rex: So here I am, sitting on a rock, when all of a sudden..."
+      ],
+      [
+        "T-Rex: My EX-GIRLFRIEND walks up!"
+      ],
+      [
+        "T-Rex: So you can only imagine what I -",
+        "Dromiceiomimus: What's that smell?"
+      ],
+      [
+        "T-Rex: So anyways, she -",
+        "Utahraptor: Was she the one with the rash?"
+      ],
+      [
+        "T-Rex: It was really hard seeing her again, and -",
+        "Utahraptor: Hey, did you happen to see The Core? Man, that movie ROCKS!"
+      ],
+      [
+        "T-Rex: She's with someone else now, and I just - I wish that - guys? I could really use a shoulder - guys?",
+        "T-Rex: ANYONE?"
       ]
     ]
   },
@@ -370,6 +523,9 @@
   "guest/john1.png": {
     "comic_id": 83,
     "guest_artist": "John De Jong",
+    "header_texts": [
+      "welcome to guest week! today's comic is by john dejong"
+    ],
     "footer": [
       "(C) 2003 〚light grey〛 John De Jong. All Rights Reversed.",
       "www.qwantz.com"
@@ -395,8 +551,44 @@
         "Utahraptor: 〚still wearing the ushanka〛 In Soviet Russia, inanimate objects step on you!"
       ],
       [
-        "T-Rex: What a country!",
-        "Narrator: Answer: They'd all be retarded."
+        "T-Rex: What a country!"
+      ]
+    ]
+  },
+  "guest/oliver.png": {
+    "comic_id": 83,
+    "guest_artist": "Oliver T.C. Brackenbury",
+    "header_texts": [
+      "today's SECOND comic is by oliver t.c. brackenbury"
+    ],
+    "footer": [
+      "(C) 2003 Ryan North",
+      "www.qwantz.com"
+    ],
+    "panels": [
+      [
+        "T-Rex: Hello readers! Lately I've been thinking about how the music I like..."
+      ],
+      [
+        "T-Rex: ... is the best music ever!"
+      ],
+      [
+        "T-Rex: My music must be the best because it's always on the \"Top 40\", ergo it plays in every store and restaurant!",
+        "Dromiceiomimus: But don't you find most \"popular\" music to be just a carefully marketed product?",
+        "T-Rex: Well..."
+      ],
+      [
+        "Utahraptor: Hey T-Rex, wanna come over and listen to this rare \"Kid Koala\" LP I found?"
+      ],
+      [
+        "T-Rex: Seeing as how I've never heard him in a mall... no.",
+        "Utahraptor: What's up with you? If you'd just take off your cultural blinders you'd realize there is a whole world of only slightly harder-to-find music which is about experimentation and talent instead of money and mass-production!",
+        "T-Rex: Uh..."
+      ],
+      [
+        "T-Rex: It's getting hot in herre... so take off all your clothes...",
+        "Off panel: You don't wear clothes!",
+        "T-Rex: ◖IT'S GETTING HOT IN HERRE...◗"
       ]
     ]
   },
@@ -404,6 +596,9 @@
     "comic_id": 84,
     "guest_artist": "Mel Tayler",
     "description": "All images are replaced with cute colouring-book-style images, coloured with crayons",
+    "header_texts": [
+      "welcome to guest week! today's comic is by mel tayler"
+    ],
     "footer": [
       "(C) 2003 Ryan North",
       "www.qwantz.com"
@@ -428,6 +623,111 @@
       [
         "T-Rex: Get it? Get it? \"GREEN\"?!",
         "T-Rex: What the hell is it going to take???"
+      ]
+    ]
+  },
+  "guest/darryl-1st.png": {
+    "comic_id": 84,
+    "header_texts": [
+      "today's SECOND comic is by darryl payne"
+    ],
+    "footer": [
+      "©2003 Ryan North. Text by Darryl Payne",
+      "www.qwantz.com and www.tetris.ca"
+    ],
+    "guest_artist": "Darryl Payne",
+    "guest_artist_url": "http://www.tetris.ca",
+    "description": "All characters in all panels have blurry diagonal smudges and white blots",
+    "panels": [
+      [
+        "Narrator: T-Rex feels somehow different today. As if something has radically changed. As if..."
+      ],
+      [
+        "Narrator: He were a child again."
+      ],
+      [
+        "Narrator: Now, even as a child, T-Rex appreciated how fulfulling - both emotionally and comedically - stomping on things can be. He practiced it daily - after which he would often let out a large sigh, offering additional emotional and comedic release."
+      ],
+      [
+        "T-Rex: SIGH.",
+        "Utahraptor: 〚thinks〛 ???"
+      ],
+      [
+        "Narrator: The Utahraptor and T-Rex had known each other since they were children, as a matter of fact."
+      ],
+      [
+        "Narrator: Of course, T-Rex could remember none of this, He could rarely remember yesterday.",
+        "T-Rex: My arms are cute???",
+        "Narrator: Unless, of course, comedy were to ensue."
+      ]
+    ]
+  },
+  "guest/darryl-2nd.png": {
+    "comic_id": 84,
+    "header_texts": [
+      "today's THIRD comic is by darryl payne"
+    ],
+    "footer": [
+      "©2003 Ryan North. Text by Darryl Payne",
+      "www.qwantz.com and www.tetris.ca"
+    ],
+    "guest_artist": "Darryl Payne",
+    "guest_artist_url": "http://www.tetris.ca",
+    "description": "All characters in all panels have blurry diagonal smudges and white blots",
+    "panels": [
+      [
+        "Narrator: T-Rex is still, today, wondering why he feels so very different from his uaual self."
+      ],
+      [
+        "Narrator: He didn’t read Yesterday’s comic."
+      ],
+      [
+        "Narrator: As a matter of absolute fact (I’m not making this up) T-Rex isn’t aware that the comedic highlights of his entire life are available for the modern world to see at their convenience on the internet."
+      ],
+      [
+        "T-Rex: You know, Utahraptor, I think there’s more to the world than what we can see.",
+        "Utahraptor: 〚thinks〛 Oh?"
+      ],
+      [
+        "〚Matrix digital rain in the background〛",
+        "Narrator: Unfortunately for T-Rex, No-one can be told what the nature of the world really is. (Noone would believe it.)"
+      ],
+      [
+        "Narrator: But Most would agree that T-Rex is better-off in his naiveté than he would be if he knew.",
+        "T-Rex: Who are you calling naive?",
+        "Narrator: Naive is cute, T-Rex. Naive is... cute."
+      ]
+    ]
+  },
+  "guest/darryl-3rd.png": {
+    "comic_id": 84,
+    "header_texts": [
+      "today's FOURTH comic is by darryl payne"
+    ],
+    "footer": [
+      "©2003 Ryan North. Text by Darryl Payne",
+      "www.qwantz.com and www.tetris.ca"
+    ],
+    "guest_artist": "Darryl Payne",
+    "guest_artist_url": "http://www.tetris.ca",
+    "description": "All panel borders from the standard template are removed, making it all one large panel",
+    "panels": [
+      [
+        "Narrator: Today’s Comic is about BOUNDARIES",
+        "Narrator: (specifically, the removal thereof)",
+        "Narrator: Boundaries are often vital for consistency, for flow, to enable one to make sense of the world around them. Without boundaries, Chaos would often be the inevitable result. CHAOS!",
+        "Panel 2 T-Rex: Wow! I can bite my own tail!",
+        "Panel 3 T-Rex: You know, I have the strangest feeling of imminent danger where I had previously felt strong and secure!",
+        "Dromiceiomimus: Oh?",
+        "House: I hope that today T-Rex finally gets what he deserves.",
+        "Narrator: Boundaries are vital, even between close friends. What I mean is: Be careful what you say.",
+        "Panel 4 Utahraptor: Good Morning, T-Rex!",
+        "Panel 4 T-Rex: Utahraptor! You are looking sexy today!",
+        "Panel 5 T-Rex: Why, I don’t know why I never realized it before, but I would like to amorously stroke your tail!",
+        "Panel 5 Utahraptor: 〚thinks〛 I wish I were somewhere else.",
+        "Narrator: T-Rex has, today, learned an important lesson about boundaries",
+        "Narrator: They prevent awkward moments, and generally make life easier for everyone.",
+        "Panel 6 T-Rex: I hope I never experience limitless freedom again!"
       ]
     ]
   },

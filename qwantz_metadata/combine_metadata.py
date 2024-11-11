@@ -29,6 +29,7 @@ class ExtraMetadata(NamedTuple):
     description: str | None = None
     guest_artist: str | None = None
     guest_artist_url: str | None = None
+    header_texts: list[str] | None = None
     footer: list[str] | None = None
 
 
@@ -90,7 +91,6 @@ def combine_metadata(transcripts_dir: Path, footers_dir: Path, html_dir: Path, o
         if image_url in guest_comics_by_url:
             combined.apply_extra(guest_comics_by_url[image_url])
         result.append(dataclasses.asdict(combined))
-    result.sort(key=lambda md: (md["comic_id"], Path(md["image_url"]).stem))
 
     json.dump(result, output_file, indent=2, ensure_ascii=False)
 
@@ -116,7 +116,7 @@ def get_footers(footers_dir: Path) -> Iterator[tuple[str, list[str]]]:
 
 
 def get_metadata_from_html(html_dir: Path) -> Iterator[MetadataFromHTML]:
-    for html_file_path in html_dir.iterdir():
+    for html_file_path in sorted(html_dir.iterdir()):
         html = html_file_path.open().read()
         yield from parse_qwantz_html(html)
 
@@ -145,6 +145,7 @@ def load_metadata(json_path: Traversable) -> Iterator[ExtraMetadata]:
             description=metadata_dict.get("description"),
             guest_artist=metadata_dict.get("guest_artist"),
             guest_artist_url=metadata_dict.get("guest_artist_url"),
+            header_texts=metadata_dict.get("header_texts"),
             footer=metadata_dict.get("footer"),
         )
 
