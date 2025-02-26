@@ -906,28 +906,60 @@
     "guest_artist_url": "http://www.poppycockcircus.com/",
     "panels": [
       [
-        "Narrator: DINOSAUR COMICS PRESENTS: FUN-PUN CORNER! TODAY: FUN-PUNS WITH T-REX'S FAVE ACTIVITY! BY STEVE CAREY"
+        "Narrator: DINOSAUR COMICS PRESENTS: FUN-PUN CORNER! TODAY: FUN-PUNS WITH T-REX’S FAVE ACTIVITY! BY STEVE CAREY"
       ],
       [
-        "Utahraptor: HEY T-REX, WHY WON'T YOU LEND ME $20?",
+        "Utahraptor: HEY T-REX, WHY WON’T YOU LEND ME $20?",
         "T-Rex: 〚stomping on a house〛 BECAUSE I HAVE TO PUT MY FOOT DOWN!"
       ],
       [
         "Utahraptor: HEY T-REX, WHY ARE YOU PUTTING IN ALL THESE LONG HOURS?",
-        "T-Rex: I'M JUST TRYING TO GET A LEG UP!"
+        "T-Rex: I’M JUST TRYING TO GET A LEG UP!"
       ],
       [
         "〚T-Rex is wearing a top hat, a bow tie and a dickey〛",
         "Dromiceiomimus: HEY T-REX, WHY ARE YOU DRESSED UP SO FANCY?",
-        "T-Rex: 〚stomping on a car〛 I'M STEPPING OUT!"
+        "T-Rex: 〚stomping on a car〛 I’M STEPPING OUT!"
       ],
       [
-        "Utahraptor: HEY T-REX, WHAT'S YOUR FAVOURITE PERCUSSION-BASED THEATRICAL EXPERIENCE?",
+        "Utahraptor: HEY T-REX, WHAT’S YOUR FAVOURITE PERCUSSION-BASED THEATRICAL EXPERIENCE?",
         "T-Rex: THE BLUE MAN GROUP!"
       ],
       [
         "T-Rex: WHAT?! I REALLY DO LIKE IT! IT MAKES ME SO HAPPY!",
-        "Signature: CAREY'03"
+        "Signature: CAREY’03"
+      ]
+    ]
+  },
+  "guest2/dinobackstage.gif": {
+    "comic_id": 156,
+    "description": "All panels are square, with hand-drawn images. In most panels, T-Rex is wearing a bathrobe, sitting in a star dressing room. Utahraptor is wearing a black t-shirt and a blue cap.",
+    "guest_artist": "Steve Carey",
+    "guest_artist_url": "http://www.poppycockcircus.com/",
+    "panels": [
+      [
+        "T-Rex: HEY U.T., YOU CHECK OUT TODAY’S SCRIPT?",
+        "Utahraptor: YEAH. WHAT THE HELL IS A “SHIBBOLETH,” ANYWAY?"
+      ],
+      [
+        "T-Rex: LIKE I KNOW! WHY DON’T YOU ASK MR. BRAINIAC O’BIGWORDS, THE WRITER?",
+        "Utahraptor: TOTALLY! LIKE ANYBODY ELSE UNDERSTANDS THIS CRAP!"
+      ],
+      [
+        "T-Rex: AND GOD FORBID HE LETS US HAVE ANY INPUT!",
+        "Utahraptor: I KNOW! I MEAN, HELLO! WE’RE CREATIVE BEINGS HERE!"
+      ],
+      [
+        "T-Rex: LIKE, I’VE GOT THIS ONE GREAT IDEA WHERE YOU DISTRACT ME WHILE I’M STOMPING, AND I HURT MY LEG, SO I PRETEND IT’S BROKE, AND YOU DO ALL THIS STUFF FOR ME ‘CUZ YOU FEEL SO GUILTY, BUT THEN YOU SEE ME DANCING, AND YOU GET 〚large〛 SO MAD AT ME!"
+      ],
+      [
+        "Utahraptor: 〚large〛 THAT’S HISTERICAL! 〚end large〛 AND ANYONE CAN GET IT!",
+        "T-Rex: YOU’RE TELLIN’ ME! BUT NO WAY CAPTAIN CONTROL FREAK WOULD TAKE A SUGGESTION FROM ME!"
+      ],
+      [
+        "Narrator: LATER...",
+        "T-Rex: 〚naked as usual〛 BUT I PRONOUNCE IT “SIBBOLETH!” WHAT’S WRONG WITH THAT?!",
+        "Signature: CAREY’03"
       ]
     ]
   },
@@ -1191,15 +1223,15 @@
     "guest_artist_url": "http://www.poppycockcircus.com/",
     "panels": [
       [
-        "T-Rex: THIS IS 〚underline〛 MY 〚end underline〛 TOWN - A DIRTY TOWN, BUT I'M GONNA CLEAN IT UP..."
+        "T-Rex: THIS IS 〚underline〛 MY 〚end underline〛 TOWN - A DIRTY TOWN, BUT I’M GONNA CLEAN IT UP..."
       ],
       [
         "〚T-Rex makes a stealthy pose holding a gun〛",
         "Narrator: T. REX IN: CRIME STOMPER 2"
       ],
       [
-        "Dromiceiomimus: T. REX! YOU CAN'T STOMP THAT HOUSE! YOU DON'T HAVE A WARRANT!!",
-        "T-Rex: DON'T TRY TO STOP ME - THIS CABIN IS A 〚underline〛FRONT〚end underline〛!",
+        "Dromiceiomimus: T. REX! YOU CAN’T STOMP THAT HOUSE! YOU DON’T HAVE A WARRANT!!",
+        "T-Rex: DON’T TRY TO STOP ME - THIS CABIN IS A 〚underline〛FRONT〚end underline〛!",
         "T-Rex: ... FOR 〚underline〛DRUGS〚end underline〛!!"
       ],
       [
@@ -1208,11 +1240,40 @@
       ],
       [
         "T-Rex: YEAH, WELL RESPECTED... FOR 〚underline〛DRUGS〚end underline〛!",
-        "Utahraptor: THAT'S IT REX! YOU'RE A LOOSE CANNON AND I WANT YOUR GUN AND BADGE!!",
-        "Utahraptor: YOU'RE SUSPENDED - INDEFINITELY!"
+        "Utahraptor: THAT’S IT REX! YOU’RE A LOOSE CANNON AND I WANT YOUR GUN AND BADGE!!",
+        "Utahraptor: YOU’RE SUSPENDED - INDEFINITELY!"
       ],
       [
         "T-Rex: BUT - BUT I HAVE LOW SELF-ESTEEM! REMEMBER??",
+        "Signature: SC"
+      ]
+    ]
+  },
+  "guest3/dressup.gif": {
+    "comic_id": 274,
+    "description": "All images are hand-drawn",
+    "guest_artist": "Steve Carey",
+    "guest_artist_url": "http://www.poppycockcircus.com/",
+    "panels": [
+      [
+        "T-Rex: 〚looking into an open trunk〛 WHAT’S THIS?? WHY IT’S AN OLD COSTUME TRUNK!!"
+      ],
+      [
+        "T-Rex: 〚holding costume parts〛 LET’S PLAY “DRESS UP!!”"
+      ],
+      [
+        "T-Rex: 〚dressed as a cowboy〛 HOWDY HOWDY HOWDY, PARTNER! I’M AN OLD WEST COWBOY!!",
+        "Dromiceiomimus: LOOKIN’ GOOD, T-REX!"
+      ],
+      [
+        "T-Rex: 〚in a spacesuit〛 GREETINGS, MARSMAN! I AM AN OUTER-SPACE ASTRONAUT!"
+      ],
+      [
+        "T-Rex: 〚in a princess costume〛 AND NOW I’M A PRETTY PRETTY PRINCESS!!",
+        "Utahraptor: UM, T-REX, ISN’T “DRESS-UP” A LITTLE KIDS GAME - MORE SPECIFICALLY, A LITTLE GIRL’S GAME?"
+      ],
+      [
+        "T-Rex: 〚still as a princess, tearing some paper〛 WELL, 〚underline〛SOMEBODY〚end underline〛 JUST GOT HIMSELF 〚underline〛DIS〚end underline〛-INVITED FROM A PRETTY PRINCESS 〚large〛 TEA PARTY!!!",
         "Signature: SC"
       ]
     ]
@@ -1487,7 +1548,6 @@
   },
   "guest3/justin1.png": {
     "comic_id": 283,
-    "description": "Two comics in one image. Originally they were in separate files, as seen at https://qwantz.com/20040330.html, and the second one's title text was \"press all the buttons to make sure the counter runs down and nobody else can take your game\"",
     "footer": [
       "(C) 2004 Ryan North",
       "GUEST COMIC BY JUSTIN PIERCE"
@@ -1526,7 +1586,18 @@
         "Narrator: LATER...",
         "T-Rex: Godot! Where ▹were◃ you?",
         "Godot: 〚a stegosaurus〛 Hey, man! What's the haps?"
-      ],
+      ]
+    ]
+  },
+  "guest3/justin2.png": {
+    "comic_id": 283,
+    "footer": [
+      "(C) 2004 Ryan North",
+      "GUEST COMICAL BY JUSTIN PIERCE"
+    ],
+    "guest_artist": "Justin Pierce",
+    "guest_artist_url": "http://www.killroyandtina.com/",
+    "panels": [
       [
         "Game: INSERT COIN"
       ],
@@ -2029,6 +2100,39 @@
         "Narrator: Lessons in Sharing: Featuring T-Rex",
         "T-Rex: mm! strawberry, my favourite!",
         "Woman: C'mon T-Rex! We got 2 straws for a reason!"
+      ]
+    ]
+  },
+  "guest5/dinorobots.jpg": {
+    "comic_id": 485,
+    "footer": [
+      "by Allene! (also some credit to that Ryan North fellow)"
+    ],
+    "guest_artist": "Allene Chomyn",
+    "guest_artist_url": "http://www.livejournal.com/users/allenec/",
+    "description": "The comic is hand-drawn",
+    "panels": [
+      [
+        "Narrator: T-REX IN: “VISIONS OF THE FUTURE”"
+      ],
+      [
+        "T-Rex: Robots!"
+      ],
+      [
+        "T-Rex: Hey, Dromiceiomimus - what if, in the future, all dinosaurs are replaced with giant ROBOTS?",
+        "Dromiceiomimus: I don’t think that’s really an issue."
+      ],
+      [
+        "T-Rex: Think of the superior stomping ability of a robot dinosaur!",
+        "Utahraptor: Uh.. T-Rex.."
+      ],
+      [
+        "Utahraptor: You do realize that, unless we build them ourselves, there will never be dinosaur robots.",
+        "T-Rex: um."
+      ],
+      [
+        "T-Rex: Giant Dinosaur Robots! In the FUTURE!",
+        "T-Rex: Awesome!"
       ]
     ]
   },
