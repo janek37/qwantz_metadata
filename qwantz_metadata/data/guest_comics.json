@@ -1192,7 +1192,7 @@
   },
   "guest3/zole2.png": {
     "comic_id": 273,
-    "description": "The second part of a two-part comic; the original title text, as seen at https://qwantz.com/20040316.html, was \"that's right: he can rhyme orange!\"",
+    "description": "The second part of a two-part comic",
     "footer": ["www.zole.org/extremist * www.qwantz.com"],
     "guest_artist": "Michael Zole",
     "guest_artist_url": "http://www.zole.org/extremist",
@@ -1734,7 +1734,7 @@
   },
   "guest3/dcrezo1.png": {
     "comic_id": 286,
-    "description": "This comic tells basically the same story twice. The first part uses the standard template and similar vector graphics and/or pixel art. The second part uses hand-drawn pictures. Originally, at https://qwantz.com/20040402.html, there was a \"Choose your Universe\" screen with one panel from each version, with title texts: \"COMPUTER GENERATED UNIVERSE WHERE TECHNOLOGY RULES SUPREME\" and \"hand-drawn universe where we sometimes talk about our feelings\". Each universe was on a separate page, and the contact text is a little different on the second one, as one could expect",
+    "description": "This comic tells basically the same story twice. The first part uses the standard template and similar vector graphics and/or pixel art. The second part uses hand-drawn pictures. Originally, at https://qwantz.com/20040402.html, there was a \"Choose your Universe\" screen with one panel from each version, with title texts: \"COMPUTER GENERATED UNIVERSE WHERE TECHNOLOGY RULES SUPREME\" and \"hand-drawn universe where we sometimes talk about our feelings\". Each universe was on a separate page, and the e-mail subject text is a little different on the second one, as one could expect",
     "guest_artist": "Ryan Armand",
     "guest_artist_url": "http://www.ribaldyouth.com/",
     "panels": [
@@ -3389,140 +3389,98 @@
     "description": "At a glance this is a standard template, but the comic uses animation to change the text in panels periodically. The animation has 28 frames and each takes 3 seconds, it loops every 84 seconds.",
     "panels": [
       [
-        "〚Panel 1, frames 1-21〛",
+        "〚frames 1-21〛",
         "T-Rex: Let’s play a type of “Choose Your Own Adventure” where the path of the story is dictated by how fast you read. Ready ... set ... go! On to the next panel!!!",
-        "Narrator: Loops every 84 seconds!"
-      ],
-      [
-        "〚Panel 1, frames 22-28〛",
+        "Narrator: Loops every 84 seconds!",
+        "〚frames 22-28〛",
         "T-Rex: Ok, if you’re reading this path, it means you were spacing out for a long time and didn’t start reading until now. Or you were camping out here for a while. In which case, congrats! Secret story path!!!",
         "T-Rex: YOU LOSE. THE END."
       ],
       [
-        "〚Panel 2, frames 1-2〛",
+        "〚frames 1-2〛",
         "T-Rex: Wow, you got here fast! You either skipped ahead, or camped a while. I admire your patience...",
-        "T-Rex: or lack thereof."
-      ],
-      [
-        "〚Panel 2, frames 3-10〛",
-        "T-Rex: But not too fast. It’s not a race or anything. Just read at your own pace."
-      ],
-      [
-        "〚Panel 2, frames 11-26〛",
+        "T-Rex: or lack thereof.",
+        "〚frames 3-10〛",
+        "T-Rex: But not too fast. It’s not a race or anything. Just read at your own pace.",
+        "〚frames 11-26〛",
         "T-Rex: You sure took your sweet time getting here! That’s ok, we’ll take the leisurely route.",
-        "T-Rex: Suits me just fine!"
-      ],
-      [
-        "〚Panel 2, frames 27-28〛",
+        "T-Rex: Suits me just fine!",
+        "〚frames 27-28〛",
         "T-Rex: YOU HAVE BEEN SLAIN BY AN UNRULY PACK OF BABOONS.",
         "T-Rex: YOU WIN."
       ],
       [
-        "〚Panel 3, frames 1-6〛",
+        "〚frames 1-6〛",
         "Dromiceiomimus: Does anything of substance happen in this story? Or do we just humor the reader as he or she fumbles through the novelty of this storytelling device?",
-        "T-Rex: Dromiceiomimus. What is an adventure but a fumbling through novelty? And through such rites of passage, are there not guides along the way to “humor” the initiate?"
-      ],
-      [
-        "〚Panel 3, frames 7-12〛",
+        "T-Rex: Dromiceiomimus. What is an adventure but a fumbling through novelty? And through such rites of passage, are there not guides along the way to “humor” the initiate?",
+        "〚frames 7-12〛",
         "Dromiceiomimus: Everyone knows the hidden purpose of any CYOA is to read the story exhaustively. 100% completion is the CYO Adventurer’s treasure, and his burden. How is that achieved in this format?",
-        "T-Rex: By “panel camping!” But not until you’ve read all the way through at least once. Camping the whole way would be like reading a CYOA book’s pages consecutively. That’s just stupid!"
-      ],
-      [
-        "〚Panel 3, frames 13-18〛",
+        "T-Rex: By “panel camping!” But not until you’ve read all the way through at least once. Camping the whole way would be like reading a CYOA book’s pages consecutively. That’s just stupid!",
+        "〚frames 13-18〛",
         "Dromiceiomimus: So by “Choose Your Own”, you mean have the narrative thrust at you haphazardly in accordance with your natural reading pace?",
         "T-Rex: YES!",
         "Dromiceiomimus: So no choice at all then, unless you want to awkwardly modify your reading habits.",
         "T-Rex: But aren’t all our “choices” bound by our personal limitations anyway?",
-        "Dromiceiomimus: Looks like you win ▹that◃ argument!"
-      ],
-      [
-        "〚Panel 3, frames 19-24〛",
+        "Dromiceiomimus: Looks like you win ▹that◃ argument!",
+        "〚frames 19-24〛",
         "Dromiceiomimus: When I start reading a panel and it changes suddenly, I feel like I am being punished for not reading fast enough.",
-        "T-Rex: Punished? No. REWARDED. With a tantalizing glimpse of a story path you are not yet meant to behold!"
-      ],
-      [
-        "〚Panel 3, frames 25-28〛",
+        "T-Rex: Punished? No. REWARDED. With a tantalizing glimpse of a story path you are not yet meant to behold!",
+        "〚frames 25-28〛",
         "Dromiceiomimus: Seriously, would anyone take this long to get to this panel?",
         "T-Rex: These are fertile camping grounds my friend."
       ],
       [
-        "〚Panel 4, frames 1, 5, 13, 17, 25〛",
-        "Utahraptor: ◖I see problems with this!◗"
-      ],
-      [
-        "〚Panel 4, frames 2, 6, 14, 18, 26〛",
-        "Utahraptor: ◖Hold the phone!!!◗"
-      ],
-      [
-        "〚Panel 4, frames 3, 7, 15, 19, 27〛",
-        "Utahraptor: ◖I think my head is starting to hurt!◗"
-      ],
-      [
-        "〚Panel 4, frames 4, 8, 16, 20, 28〛",
-        "Utahraptor: ◖Man, I don’t know about this!◗"
-      ],
-      [
-        "〚Panel 4, frames 9-12, 21-24〛",
+        "〚frames 1, 5, 13, 17, 25〛",
+        "Utahraptor: ◖I see problems with this!◗",
+        "〚frames 2, 6, 14, 18, 26〛",
+        "Utahraptor: ◖Hold the phone!!!◗",
+        "〚frames 3, 7, 15, 19, 27〛",
+        "Utahraptor: ◖I think my head is starting to hurt!◗",
+        "〚frames 4, 8, 16, 20, 28〛",
+        "Utahraptor: ◖Man, I don’t know about this!◗",
+        "〚frames 9-12, 21-24〛",
         "Utahraptor: This is the crazy version of this panel where we have no disagreement and there are no problems.",
         "Utahraptor: Tra-la-la."
       ],
       [
-        "〚Panel 5, frames 1-4〛",
+        "〚frames 1-4〛",
         "T-Rex: I fail to grasp the objection you may or may not have voiced in the previous panel.",
         "Utahraptor: OH WHERE DO I EVEN BEGIN.",
         "T-Rex: Well, I suppose we could just leave it at that in this story path.",
-        "Utahraptor: YOU GOT IT."
-      ],
-      [
-        "〚Panel 5, frames 5-8〛",
+        "Utahraptor: YOU GOT IT.",
+        "〚frames 5-8〛",
         "T-Rex: What’s all this now??",
         "Utahraptor: For starters, have you noticed sometimes while you’re in the middle of reading a sentence, the panel suddenly changes?",
         "T-Rex: Why yes. What of it?",
         "Utahraptor: IT’S AWFUL.",
-        "T-Rex: IT’S ADVENTUROUS."
-      ],
-      [
-        "〚Panel 5, frames 9-12〛",
+        "T-Rex: IT’S ADVENTUROUS.",
+        "〚frames 9-12〛",
         "T-Rex: Um, say what???????",
         "Utahraptor: Ok, let me explain. Unlike a typical CYOA with pages that set up different story branches with some detail, these shifting panels have us fly by the seat of our pants! Each one has to be generic to fit whatever preceded it.",
-        "T-Rex: So??"
-      ],
-      [
-        "〚Panel 5, frames 13-16〛",
+        "T-Rex: So??",
+        "〚frames 13-16〛",
         "T-Rex: WH-WH-WHAAAAAAAAAAAAAahem. As I was about to say before that panel shift. Utahraptor, so what if the panels fit a generic mold to suit any preceding event? Other CYOAs work that way too. You either get killed by a shark... or maybe a lion!!!",
-        "Utahraptor: YOU CAN’T DO THAT."
-      ],
-      [
-        "〚Panel 5, frames 17-20〛",
+        "Utahraptor: YOU CAN’T DO THAT.",
+        "〚frames 17-20〛",
         "T-Rex: Do what?",
         "Utahraptor: YOU CAN’T DO WHAT WE’RE DOING NOW. That is, continue a conversation from the same panel after it just switched. That panel was a separate story path! It’s like two people in different dimensions talking to each other!!!",
-        "T-Rex: WHOA, AWESOME"
-      ],
-      [
-        "〚Panel 5, frames 21-24〛",
+        "T-Rex: WHOA, AWESOME",
+        "〚frames 21-24〛",
         "Utahraptor: NO, NOT AWESOME.",
         "T-Rex: I don’t see what the big deal is. We’re having a nice chat.",
         "Utahraptor: But people just entering this panel have no idea what we’re talking about.",
-        "T-Rex: Those are some slow readers. Anyway, they can find out, by camping!"
-      ],
-      [
-        "〚Panel 5, frames 25-28〛",
+        "T-Rex: Those are some slow readers. Anyway, they can find out, by camping!",
+        "〚frames 25-28〛",
         "Utahraptor: But that is not in the spirit of this storytelling model! Man, look, this whole thing is unhinged now. You totally broke the CYOA format you invented. Happy?",
         "T-Rex: I didn’t invent it! I am merely the excitable spokesman for the concept presently."
       ],
       [
-        "〚Panel 6, odd frames〛",
         "T-Rex: Thanks for reading! If all went well, you will have spent way too long looking at this image, and are now feeling a little dizzy!",
-        "T-Rex: Together, we made this adventure an extraordinary success!!!"
-      ],
-      [
-        "〚Panel 6, even frames except frame 28〛",
-        "T-Rex: Thanks for reading! If all went well, you will have spent way too long looking at this image, and are now feeling a little dizzy!",
-        "T-Rex: Together, we made this adventure an extraordinary failure!!!"
-      ],
-      [
-        "〚Panel 6, frame 28〛",
-        "T-Rex: Thanks for reading! If all went well, you will have spent way too long looking at this image, and are now feeling a little dizzy!",
+        "〚odd frames〛",
+        "T-Rex: Together, we made this adventure an extraordinary success!!!",
+        "〚even frames except frame 28〛",
+        "T-Rex: Together, we made this adventure an extraordinary failure!!!",
+        "〚frame 28〛",
         "T-Rex: Together, we made this adventure a mind-boggling clusterfuck!!!"
       ]
     ]

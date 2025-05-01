@@ -1,7 +1,7 @@
 [project]
 name = "qwantz_metadata"
 authors = [{name = "Jan Szejko", email = "jan.szejko@gmail.com"}]
-version = "2025.3.0"
+version = "2025.5.0"
 description = "Prepare metadata document for Dinosaur Comics"
 readme = "README.md"
 requires-python = ">=3.10"
