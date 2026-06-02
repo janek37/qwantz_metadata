@@ -10,7 +10,6 @@ classifiers = [
     "Programming Language :: Python :: 3.10",
     "Environment :: Console",
     "Intended Audience :: End Users/Desktop",
-    "License :: OSI Approved :: MIT License",
     "Natural Language :: English",
     "Operating System :: OS Independent",
     "Topic :: Text Processing :: Markup :: HTML",
@@ -22,6 +21,7 @@ dependencies = [
     "python-dateutil",
     "typer",
 ]
+license = "MIT"
 
 [project.optional-dependencies]
 dev = ["pytest"]
@@ -33,4 +33,7 @@ homepage = "https://github.com/janek37/qwantz_metadata"
 qwantz-metadata = "qwantz_metadata:app"
 
 [tool.setuptools]
-packages = ["qwantz_metadata"]
+packages = ["qwantz_metadata", "qwantz_metadata.data"]
+
+[tool.uv]
+package = true
