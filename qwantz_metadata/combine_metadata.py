@@ -3,7 +3,7 @@ import json
 import sys
 from collections.abc import Iterable, Iterator
 from dataclasses import dataclass
-from importlib.abc import Traversable
+from importlib.resources.abc import Traversable
 from importlib.resources import files
 from pathlib import Path
 from typing import NamedTuple, IO
